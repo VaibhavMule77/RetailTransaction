@@ -1,0 +1,611 @@
+Transaction ID,Date,Customer ID,Product ID,Quantity,Total Amount,Customer Name,City,State,Age,Gender,Day,Month,Year,Weekday,Quarter,Product Name,Tax,Discount,Product Category
+T001,2024-05-25,C042,P015,1,160,Omkar Iyer,Hyderabad,Delhi,,Male,25,May,2024,Saturday,2,Detergent Liquid,28.799999999999997,0.0,Household
+T002,08/10/2024,C004,P005,8,2456,Dev Agarwal,Bangalore,Telangana,34.0,Female,10,August,2024,Saturday,3,Shampoo Bottle,442.08,245.60000000000002,Personal Care
+T003,2024-05-31,C040,P003,8,3280,Simran Kaur,Kolkata,Gujarat,34.0,Male,31,May,2024,Friday,2,Face Wash,590.4,328.0,Beverages
+T004,2024-07-31,C013,P003,2,820,Rohan Desai,Kolkata,Delhi,,Female,31,July,2024,Wednesday,3,Energy Drink,147.6,0.0,Beverages
+T005,06/26/2024,C025,P012,10,3340,Meera Rao,Bangalore,Delhi,38.0,Female,26,June,2024,Wednesday,2,Butter Pack,601.1999999999999,334.0,Dairy
+T006,20-10-2024,C049,P001,8,1984,Rohan Desai,Chennai,Tamil Nadu,32.0,Male,20,October,2024,Sunday,4,Rice Bag,357.12,198.4,Snacks
+T007,11/07/2024,C003,P006,5,1810,Omkar Iyer,,Telangana,47.0,Female,7,November,2024,Thursday,4,Cereal Box,325.8,0.0,Miscellaneous
+T008,2024-08-11,C049,P015,7,1120,Siddharth Bansal,Chennai,Tamil Nadu,32.0,Male,11,August,2024,Sunday,3,Milk Carton,201.6,112.0,Household
+T009,26-09-2024,C022,P014,9,3870,Aryan Singh,Delhi,Telangana,34.0,Male,26,September,2024,Thursday,3,Rice Bag,696.6,387.0,Miscellaneous
+T010,11/08/2024,C033,P019,10,2930,Aditi Kapoor,Hyderabad,West Bengal,31.0,Male,8,November,2024,Friday,4,Chocolate Bar,527.4,293.0,Miscellaneous
+T011,03/10/2024,C036,P014,6,2580,Anaya Gupta,Mumbai,West Bengal,38.0,Male,10,March,2024,Sunday,1,Yogurt Cup,464.4,258.0,Miscellaneous
+T012,12-07-2024,C048,P019,4,1172,Simran Kaur,Chennai,Gujarat,,Female,12,July,2024,Friday,3,Toothpaste,210.95999999999998,0.0,Miscellaneous
+T013,2024-06-09,C046,P004,5,2425,Riya Saxena,Hyderabad,Delhi,29.0,Female,9,June,2024,Sunday,2,Chocolate Bar,436.5,0.0,Miscellaneous
+T014,09/26/2024,C047,P020,6,1926,Aditi Kapoor,Mumbai,Tamil Nadu,60.0,Male,26,September,2024,Thursday,3,Cooking Oil,346.68,192.60000000000002,Miscellaneous
+T015,05/27/2024,C026,P013,2,836,Dev Agarwal,Hyderabad,Maharashtra,19.0,Female,27,May,2024,Monday,2,Biscuits,150.48,0.0,Miscellaneous
+T016,10/15/2024,C012,P003,10,4100,Siddharth Bansal,Delhi,West Bengal,27.0,Female,15,October,2024,Tuesday,4,Milk Carton,738.0,410.0,Beverages
+T017,2024-06-11,C018,P019,7,2051,Rohan Desai,Ahmedabad,Maharashtra,29.0,Male,11,June,2024,Tuesday,2,Cooking Oil,369.18,205.10000000000002,Miscellaneous
+T018,12/16/2024,C040,P014,2,860,Aditya Jain,Kolkata,Gujarat,34.0,Male,16,December,2024,Monday,4,Cereal Box,154.79999999999998,0.0,Miscellaneous
+T019,16-02-2024,C002,P017,2,752,Kavya Nair,Delhi,Telangana,48.0,Male,16,February,2024,Friday,1,Green Tea,135.35999999999999,0.0,Miscellaneous
+T020,11-01-2024,C009,P008,8,1048,Siddharth Bansal,Mumbai,Gujarat,,Female,11,January,2024,Thursday,1,Detergent Liquid,188.64,104.80000000000001,Miscellaneous
+T021,09/27/2024,C031,P006,7,2534,Dev Agarwal,Kolkata,West Bengal,54.0,Male,27,September,2024,Friday,3,Chocolate Bar,456.12,253.4,Miscellaneous
+T022,05/16/2024,C002,P011,1,83,Pooja Menon,Delhi,Telangana,48.0,Male,16,May,2024,Thursday,2,Milk Carton,14.94,0.0,Miscellaneous
+T023,20-02-2024,C026,P010,2,300,Anaya Gupta,Hyderabad,Maharashtra,19.0,Female,20,February,2024,Tuesday,1,Chocolate Bar,54.0,0.0,Miscellaneous
+T024,21-07-2024,C033,P005,5,1535,Siddharth Bansal,Hyderabad,West Bengal,31.0,Male,21,July,2024,Sunday,3,Bath Soap,276.3,0.0,Personal Care
+T025,10/10/2024,C037,P006,8,2896,Pooja Menon,Delhi,Karnataka,54.0,Female,10,October,2024,Thursday,4,Rice Bag,521.28,289.6,Miscellaneous
+T026,16-04-2024,C006,P011,9,747,Omkar Iyer,,Karnataka,28.0,Male,16,April,2024,Tuesday,2,Toothpaste,134.46,74.7,Miscellaneous
+T027,2024-12-13,C049,P010,6,900,Aarav Sharma,Chennai,Tamil Nadu,32.0,Male,13,December,2024,Friday,4,Toothpaste,162.0,90.0,Miscellaneous
+T028,2024-01-09,C002,P002,7,1883,Rohan Desai,,Telangana,48.0,Male,9,January,2024,Tuesday,1,Face Wash,338.94,188.3,Miscellaneous
+T029,2024-06-26,C026,P007,5,2000,Kavya Nair,Hyderabad,Maharashtra,19.0,Female,26,June,2024,Wednesday,2,Green Tea,360.0,0.0,Miscellaneous
+T030,2024-02-27,C016,P016,10,1650,Omkar Iyer,Bangalore,Maharashtra,54.0,Female,27,February,2024,Tuesday,1,Cheese Block,297.0,165.0,Miscellaneous
+T031,12-12-2024,C016,P013,3,1254,Neha Joshi,,Maharashtra,54.0,Female,12,December,2024,Thursday,4,Packaged Juice,225.72,0.0,Miscellaneous
+T032,2024-11-29,C003,P015,9,1440,Aarav Sharma,Mumbai,Telangana,47.0,Female,29,November,2024,Friday,4,Washing Powder,259.2,144.0,Household
+T033,04/07/2024,C005,P017,1,376,Neha Joshi,,,45.0,Male,7,April,2024,Sunday,2,Face Wash,67.67999999999999,0.0,Miscellaneous
+T034,06/22/2024,C012,P018,9,4005,Anaya Gupta,Delhi,West Bengal,27.0,Female,22,June,2024,Saturday,2,Shampoo Bottle,720.9,400.5,Miscellaneous
+T035,2024-11-19,C044,P001,10,2480,Aditi Kapoor,Ahmedabad,Maharashtra,49.0,Female,19,November,2024,Tuesday,4,Face Wash,446.4,248.0,Snacks
+T036,06/08/2024,C022,P013,3,1254,Omkar Iyer,Delhi,Telangana,34.0,Male,8,June,2024,Saturday,2,Bath Soap,225.72,0.0,Miscellaneous
+T037,2024-08-27,C046,P012,4,1336,Rohan Desai,Hyderabad,Delhi,29.0,Female,27,August,2024,Tuesday,3,Washing Powder,240.48,0.0,Dairy
+T038,2024-01-16,C008,P005,4,1228,Kabir Khanna,Hyderabad,Karnataka,50.0,Male,16,January,2024,Tuesday,1,Cereal Box,221.04,0.0,Personal Care
+T039,2024-10-10,C046,P011,5,415,Kavya Nair,Hyderabad,Delhi,29.0,Female,10,October,2024,Thursday,4,Cheese Block,74.7,0.0,Miscellaneous
+T040,04/12/2024,C021,P019,2,586,Kavya Nair,Hyderabad,Tamil Nadu,29.0,Female,12,April,2024,Friday,2,Face Wash,105.47999999999999,0.0,Miscellaneous
+T041,10/19/2024,C022,P008,7,917,Aarav Sharma,Delhi,Telangana,34.0,Male,19,October,2024,Saturday,4,Butter Pack,165.06,91.7,Miscellaneous
+T042,2024-09-08,C033,P019,2,586,Aryan Singh,Hyderabad,West Bengal,31.0,Male,8,September,2024,Sunday,3,Butter Pack,105.47999999999999,0.0,Miscellaneous
+T043,2024-01-15,C002,P020,7,2247,Aditya Jain,Delhi,Telangana,48.0,Male,15,January,2024,Monday,1,Packaged Juice,404.46,224.70000000000002,Miscellaneous
+T044,2024-06-12,C046,P004,4,1940,Vihaan Patel,Hyderabad,Delhi,29.0,Female,12,June,2024,Wednesday,2,Butter Pack,349.2,0.0,Miscellaneous
+T045,2024-10-11,C049,P004,4,1940,Aditi Kapoor,,Tamil Nadu,32.0,Male,11,October,2024,Friday,4,Green Tea,349.2,0.0,Miscellaneous
+T046,04-03-2024,C042,P014,8,3440,Anaya Gupta,Hyderabad,Delhi,34.0,Male,4,March,2024,Monday,1,Cheese Block,619.1999999999999,344.0,Miscellaneous
+T047,2024-01-15,C006,P003,9,3690,Omkar Iyer,,Karnataka,28.0,Male,15,January,2024,Monday,1,Energy Drink,664.1999999999999,369.0,Beverages
+T048,09/13/2024,C006,P011,1,83,Aarav Sharma,Hyderabad,Karnataka,28.0,Male,13,September,2024,Friday,3,Green Tea,14.94,0.0,Miscellaneous
+T049,2024-09-26,C034,P005,6,1842,Aryan Singh,Kolkata,Gujarat,,Female,26,September,2024,Thursday,3,Biscuits,331.56,184.20000000000002,Personal Care
+T050,01-03-2024,C041,P012,8,2672,Aditi Kapoor,Hyderabad,Tamil Nadu,31.0,Female,1,March,2024,Friday,1,Cooking Oil,480.96,267.2,Dairy
+T051,02/20/2024,C005,P015,9,1440,Neha Joshi,Mumbai,West Bengal,45.0,Male,20,February,2024,Tuesday,1,Chocolate Bar,259.2,144.0,Household
+T052,10-05-2024,C013,P013,7,2926,Kavya Nair,Kolkata,Delhi,46.0,Female,10,May,2024,Friday,2,Coffee Pack,526.68,292.6,Miscellaneous
+T053,2024-10-26,C007,P011,10,830,Riya Saxena,Mumbai,West Bengal,57.0,Female,26,October,2024,Saturday,4,Bath Soap,149.4,83.0,Miscellaneous
+T054,04/05/2024,C013,P008,6,786,Omkar Iyer,Kolkata,Delhi,46.0,Female,5,April,2024,Friday,2,Cooking Oil,141.48,78.60000000000001,Miscellaneous
+T055,2024-12-16,C016,P014,4,1720,Nisha Roy,Bangalore,Maharashtra,54.0,Female,16,December,2024,Monday,4,Toothpaste,309.59999999999997,0.0,Miscellaneous
+T056,11/13/2024,C029,P013,4,1672,Omkar Iyer,Bangalore,Delhi,39.0,Male,13,November,2024,Wednesday,4,Cooking Oil,300.96,0.0,Miscellaneous
+T057,03/10/2024,C027,P004,7,3395,Aarav Sharma,Ahmedabad,Maharashtra,25.0,Male,10,March,2024,Sunday,1,Cereal Box,611.1,339.5,Miscellaneous
+T058,12/23/2024,C031,P004,10,4850,Aarav Sharma,Kolkata,,54.0,Male,23,December,2024,Monday,4,Butter Pack,873.0,485.0,Miscellaneous
+T059,28-02-2024,C032,P019,2,586,Siddharth Bansal,Ahmedabad,Delhi,19.0,Male,28,February,2024,Wednesday,1,Packaged Juice,105.47999999999999,0.0,Miscellaneous
+T060,2024-03-23,C042,P017,6,2256,Simran Kaur,Hyderabad,Delhi,,Male,23,March,2024,Saturday,1,Cereal Box,406.08,225.60000000000002,Miscellaneous
+T061,22-01-2024,C029,P003,6,2460,Arjun Verma,Bangalore,Delhi,39.0,Male,22,January,2024,Monday,1,Bath Soap,442.8,246.0,Beverages
+T062,15-07-2024,C030,P016,7,1155,Kavya Nair,Chennai,Delhi,19.0,Male,15,July,2024,Monday,3,Cheese Block,207.9,115.5,Miscellaneous
+T063,2024-05-25,C021,P020,7,2247,Aditya Jain,Hyderabad,Tamil Nadu,29.0,Female,25,May,2024,Saturday,2,Bath Soap,404.46,224.70000000000002,Miscellaneous
+T064,2024-05-06,C040,P004,5,2425,Siddharth Bansal,Kolkata,Gujarat,34.0,Male,6,May,2024,Monday,2,Biscuits,436.5,0.0,Miscellaneous
+T065,2024-01-09,C018,P014,9,3870,Meera Rao,Ahmedabad,Maharashtra,29.0,Male,9,January,2024,Tuesday,1,Cheese Block,696.6,387.0,Miscellaneous
+T066,01/12/2024,C005,P014,6,2580,Dev Agarwal,Mumbai,West Bengal,,Male,12,January,2024,Friday,1,Yogurt Cup,464.4,258.0,Miscellaneous
+T067,26-02-2024,C025,P005,9,2763,Aditya Jain,Bangalore,Delhi,38.0,Female,26,February,2024,Monday,1,Biscuits,497.34,276.3,Personal Care
+T068,27-08-2024,C046,P005,5,1535,Omkar Iyer,Hyderabad,,29.0,Female,27,August,2024,Tuesday,3,Rice Bag,276.3,0.0,Personal Care
+T069,01-07-2024,C035,P020,1,321,Anaya Gupta,Ahmedabad,Tamil Nadu,27.0,Male,1,July,2024,Monday,3,Coffee Pack,57.78,0.0,Miscellaneous
+T070,16-02-2024,C006,P004,8,3880,Vihaan Patel,Hyderabad,Karnataka,28.0,Male,16,February,2024,Friday,1,Biscuits,698.4,388.0,Miscellaneous
+T071,23-07-2024,C005,P018,10,4450,Riya Saxena,Mumbai,West Bengal,45.0,Male,23,July,2024,Tuesday,3,Hand Sanitizer,801.0,445.0,Miscellaneous
+T072,09/29/2024,C040,P001,5,1240,Nisha Roy,,Gujarat,34.0,Male,29,September,2024,Sunday,3,Rice Bag,223.2,0.0,Snacks
+T073,2024-09-08,C037,P018,5,2225,Simran Kaur,Delhi,Karnataka,54.0,Female,8,September,2024,Sunday,3,Chocolate Bar,400.5,0.0,Miscellaneous
+T074,09/30/2024,C021,P018,9,4005,Aryan Singh,Hyderabad,,29.0,Female,30,September,2024,Monday,3,Yogurt Cup,720.9,400.5,Miscellaneous
+T075,09/20/2024,C026,P005,5,1535,Aryan Singh,Hyderabad,Maharashtra,19.0,Female,20,September,2024,Friday,3,Bath Soap,276.3,0.0,Personal Care
+T076,02/20/2024,C020,P008,10,1310,Simran Kaur,Delhi,Gujarat,37.0,Male,20,February,2024,Tuesday,1,Cooking Oil,235.79999999999998,131.0,Miscellaneous
+T077,2024-12-28,C038,P001,3,744,Kabir Khanna,Hyderabad,Maharashtra,37.0,Female,28,December,2024,Saturday,4,Coffee Pack,133.92,0.0,Snacks
+T078,2024-10-17,C025,P012,150,100200,Nisha Roy,Bangalore,Delhi,38.0,Female,17,October,2024,Thursday,4,Butter Pack,180.35999999999999,0.0,Dairy
+T079,23-06-2024,C040,P007,6,2400,Vihaan Patel,Kolkata,Gujarat,34.0,Male,23,June,2024,Sunday,2,Energy Drink,432.0,240.0,Miscellaneous
+T080,12/25/2024,C039,P020,2,642,Aditya Jain,Ahmedabad,Gujarat,20.0,Male,25,December,2024,Wednesday,4,Cereal Box,115.56,0.0,Miscellaneous
+T081,05-06-2024,C015,P007,1,400,Neha Joshi,,West Bengal,,Male,5,June,2024,Wednesday,2,Energy Drink,72.0,0.0,Miscellaneous
+T082,2024-09-07,C034,P004,4,1940,Anaya Gupta,Kolkata,,28.0,Female,7,September,2024,Saturday,3,Hand Sanitizer,349.2,0.0,Miscellaneous
+T083,2024-02-12,C012,P012,3,1002,Anaya Gupta,Delhi,West Bengal,27.0,Female,12,February,2024,Monday,1,Yogurt Cup,180.35999999999999,0.0,Dairy
+T084,2024-12-07,C036,P013,9,3762,Kabir Khanna,Mumbai,West Bengal,38.0,Male,7,December,2024,Saturday,4,Hand Sanitizer,677.16,376.20000000000005,Miscellaneous
+T085,2024-08-03,C047,P010,8,1200,Siddharth Bansal,Mumbai,Tamil Nadu,60.0,Male,3,August,2024,Saturday,3,Milk Carton,216.0,120.0,Miscellaneous
+T086,05/29/2024,C027,P001,6,1488,Aditi Kapoor,Ahmedabad,Maharashtra,25.0,Male,29,May,2024,Wednesday,2,Biscuits,267.84,148.8,Snacks
+T087,09-10-2024,C021,P017,8,3008,Kavya Nair,Hyderabad,Tamil Nadu,29.0,Female,9,October,2024,Wednesday,4,Chocolate Bar,541.4399999999999,300.8,Miscellaneous
+T088,2024-04-06,C013,P010,7,1050,Aditi Kapoor,Kolkata,Delhi,,Female,6,April,2024,Saturday,2,Coffee Pack,189.0,105.0,Miscellaneous
+T089,24-02-2024,C031,P009,3,759,Neha Joshi,Kolkata,West Bengal,54.0,Male,24,February,2024,Saturday,1,Cheese Block,136.62,0.0,Miscellaneous
+T090,2024-07-03,C023,P005,6,1842,Arjun Verma,,Delhi,45.0,Female,3,July,2024,Wednesday,3,Milk Carton,331.56,184.20000000000002,Personal Care
+T091,13-05-2024,C049,P011,7,581,Nisha Roy,Chennai,Tamil Nadu,32.0,Male,13,May,2024,Monday,2,Milk Carton,104.58,58.1,Miscellaneous
+T092,25-08-2024,C045,P007,1,400,Meera Rao,Ahmedabad,Delhi,33.0,Female,25,August,2024,Sunday,3,Bath Soap,72.0,0.0,Miscellaneous
+T093,2024-11-13,C028,P013,6,2508,Dev Agarwal,Mumbai,Delhi,42.0,Male,13,November,2024,Wednesday,4,Green Tea,451.44,250.8,Miscellaneous
+T094,2024-11-30,C049,P018,5,2225,Meera Rao,Chennai,Tamil Nadu,,Male,30,November,2024,Saturday,4,Detergent Liquid,400.5,0.0,Miscellaneous
+T095,28-02-2024,C041,P007,8,3200,Anaya Gupta,,Tamil Nadu,31.0,Female,28,February,2024,Wednesday,1,Energy Drink,576.0,320.0,Miscellaneous
+T096,02/29/2024,C037,P016,2,330,Vihaan Patel,,Karnataka,54.0,Female,29,February,2024,Thursday,1,Biscuits,59.4,0.0,Miscellaneous
+T097,2024-08-29,C025,P013,5,2090,Simran Kaur,Bangalore,Delhi,38.0,Female,29,August,2024,Thursday,3,Detergent Liquid,376.2,0.0,Miscellaneous
+T098,2024-07-30,C008,P001,1,248,Rohan Desai,Hyderabad,Karnataka,50.0,Male,30,July,2024,Tuesday,3,Washing Powder,44.64,0.0,Snacks
+T099,11/27/2024,C045,P013,6,2508,Arjun Verma,Ahmedabad,Delhi,33.0,Female,27,November,2024,Wednesday,4,Energy Drink,451.44,250.8,Miscellaneous
+T100,12/09/2024,C004,P010,3,450,Neha Joshi,,Telangana,34.0,Female,9,December,2024,Monday,4,Chocolate Bar,81.0,0.0,Miscellaneous
+T101,2024-07-05,C039,P016,6,990,Nisha Roy,Ahmedabad,Gujarat,20.0,Male,5,July,2024,Friday,3,Biscuits,178.2,99.0,Miscellaneous
+T102,2024-11-25,C005,P002,1,269,Ishita Mehta,Mumbai,West Bengal,45.0,Male,25,November,2024,Monday,4,Biscuits,48.42,0.0,Miscellaneous
+T103,2024-05-27,C014,P004,8,3880,Pooja Menon,Chennai,West Bengal,56.0,Male,27,May,2024,Monday,2,Bath Soap,698.4,388.0,Miscellaneous
+T104,2024-08-03,C009,P009,1,253,Kavya Nair,Mumbai,,24.0,Female,3,August,2024,Saturday,3,Shampoo Bottle,45.54,0.0,Miscellaneous
+T105,16-09-2024,C029,P013,450,376200,Kavya Nair,,Delhi,39.0,Male,16,September,2024,Monday,3,Yogurt Cup,677.16,376.20000000000005,Miscellaneous
+T106,25-06-2024,C025,P011,8,664,Kavya Nair,Bangalore,Delhi,38.0,Female,25,June,2024,Tuesday,2,Bath Soap,119.52,66.4,Miscellaneous
+T107,14-01-2024,C018,P019,3,879,Meera Rao,Ahmedabad,Maharashtra,29.0,Male,14,January,2024,Sunday,1,Shampoo Bottle,158.22,0.0,Miscellaneous
+T108,2024-09-28,C040,P017,7,2632,Ishita Mehta,Kolkata,Gujarat,34.0,Male,28,September,2024,Saturday,3,Coffee Pack,473.76,263.2,Miscellaneous
+T109,16-10-2024,C017,P013,5,2090,Kabir Khanna,Chennai,Delhi,,Male,16,October,2024,Wednesday,4,Bath Soap,376.2,0.0,Miscellaneous
+T110,2024-08-12,C001,P012,5,1670,Dev Agarwal,Bangalore,West Bengal,52.0,Male,12,August,2024,Monday,3,Packaged Juice,300.59999999999997,0.0,Dairy
+T111,2024-08-06,C028,P003,3,1230,Kabir Khanna,Mumbai,Delhi,42.0,Male,6,August,2024,Tuesday,3,Face Wash,221.4,0.0,Beverages
+T112,15-11-2024,C021,P008,9,1179,Dev Agarwal,Hyderabad,Tamil Nadu,29.0,Female,15,November,2024,Friday,4,Butter Pack,212.22,117.9,Miscellaneous
+T113,2024-11-13,C030,P010,2,300,Ishita Mehta,Chennai,Delhi,,Male,13,November,2024,Wednesday,4,Cooking Oil,54.0,0.0,Miscellaneous
+T114,02-03-2024,C006,P009,8,2024,Pooja Menon,Hyderabad,Karnataka,28.0,Male,2,March,2024,Saturday,1,Rice Bag,364.32,202.4,Miscellaneous
+T115,14-07-2024,C038,P015,3,480,Riya Saxena,,Maharashtra,,Female,14,July,2024,Sunday,3,Washing Powder,86.39999999999999,0.0,Household
+T116,18-02-2024,C020,P012,10,3340,Aryan Singh,Delhi,Gujarat,37.0,Male,18,February,2024,Sunday,1,Face Wash,601.1999999999999,334.0,Dairy
+T117,01-05-2024,C011,P016,6,990,Meera Rao,Delhi,West Bengal,52.0,Female,1,May,2024,Wednesday,2,Energy Drink,178.2,99.0,Miscellaneous
+T118,22-02-2024,C017,P018,10,4450,Neha Joshi,Chennai,Delhi,,Male,22,February,2024,Thursday,1,Cooking Oil,801.0,445.0,Miscellaneous
+T119,07/27/2024,C009,P002,8,2152,Aditi Kapoor,Mumbai,Gujarat,24.0,Female,27,July,2024,Saturday,3,Packaged Juice,387.36,215.20000000000002,Miscellaneous
+T120,12/10/2024,C013,P020,10,3210,Arjun Verma,Kolkata,Delhi,46.0,Female,10,December,2024,Tuesday,4,Packaged Juice,577.8,321.0,Miscellaneous
+T121,09/20/2024,C023,P004,8,3880,Omkar Iyer,Kolkata,Delhi,45.0,Female,20,September,2024,Friday,3,Rice Bag,698.4,388.0,Miscellaneous
+T122,11/22/2024,C040,P007,6,2400,Rohan Desai,Kolkata,Gujarat,34.0,Male,22,November,2024,Friday,4,Coffee Pack,432.0,240.0,Miscellaneous
+T123,11/03/2024,C011,P014,7,3010,Simran Kaur,Delhi,West Bengal,52.0,Female,3,November,2024,Sunday,4,Cereal Box,541.8,301.0,Miscellaneous
+T124,13-06-2024,C050,P003,4,1640,Aditi Kapoor,Ahmedabad,Karnataka,30.0,Male,13,June,2024,Thursday,2,Green Tea,295.2,0.0,Beverages
+T125,2024-09-16,C008,P010,5,750,Ishita Mehta,Hyderabad,Karnataka,50.0,Male,16,September,2024,Monday,3,Bath Soap,135.0,0.0,Miscellaneous
+T126,2024-03-10,C041,P008,6,786,Ishita Mehta,Hyderabad,Tamil Nadu,31.0,Female,10,March,2024,Sunday,1,Yogurt Cup,141.48,78.60000000000001,Miscellaneous
+T127,05-02-2024,C036,P003,3,1230,Anaya Gupta,Mumbai,West Bengal,38.0,Male,5,February,2024,Monday,1,Cheese Block,221.4,0.0,Beverages
+T128,2024-09-12,C012,P017,3,1128,Simran Kaur,,West Bengal,27.0,Female,12,September,2024,Thursday,3,Butter Pack,203.04,0.0,Miscellaneous
+T129,2024-07-10,C040,P020,4,1284,Simran Kaur,Kolkata,Gujarat,34.0,Male,10,July,2024,Wednesday,3,Green Tea,231.12,0.0,Miscellaneous
+T130,11/09/2024,C044,P009,5,1265,Neha Joshi,Ahmedabad,Maharashtra,49.0,Female,9,November,2024,Saturday,4,Energy Drink,227.7,0.0,Miscellaneous
+T131,02/02/2024,C037,P013,1,418,Meera Rao,Delhi,Karnataka,54.0,Female,2,February,2024,Friday,1,Cheese Block,75.24,0.0,Miscellaneous
+T132,03/30/2024,C025,P018,7,3115,Omkar Iyer,Bangalore,Delhi,38.0,Female,30,March,2024,Saturday,1,Face Wash,560.6999999999999,311.5,Miscellaneous
+T133,2024-05-30,C050,P012,7,2338,Pooja Menon,Ahmedabad,Karnataka,30.0,Male,30,May,2024,Thursday,2,Bath Soap,420.84,233.8,Dairy
+T134,10/04/2024,C027,P015,9,1440,Meera Rao,Ahmedabad,Maharashtra,25.0,Male,4,October,2024,Friday,4,Yogurt Cup,259.2,144.0,Household
+T135,21-04-2024,C008,P003,2,820,Aditi Kapoor,Hyderabad,Karnataka,50.0,Male,21,April,2024,Sunday,2,Cereal Box,147.6,0.0,Beverages
+T136,2024-03-14,C042,P007,1,400,Nisha Roy,Hyderabad,Delhi,34.0,Male,14,March,2024,Thursday,1,Toothpaste,72.0,0.0,Miscellaneous
+T137,2024-06-03,C044,P004,10,4850,Nisha Roy,Ahmedabad,Maharashtra,49.0,Female,3,June,2024,Monday,2,Energy Drink,873.0,485.0,Miscellaneous
+T138,11/04/2024,C045,P004,5,2425,Siddharth Bansal,Ahmedabad,Delhi,33.0,Female,4,November,2024,Monday,4,Toothpaste,436.5,0.0,Miscellaneous
+T139,14-09-2024,C009,P015,9,1440,Aryan Singh,Mumbai,Gujarat,24.0,Female,14,September,2024,Saturday,3,Hand Sanitizer,259.2,144.0,Household
+T140,10/13/2024,C024,P013,1,418,Simran Kaur,Hyderabad,West Bengal,37.0,Female,13,October,2024,Sunday,4,Hand Sanitizer,75.24,0.0,Miscellaneous
+T141,08/31/2024,C042,P007,5,2000,Aditi Kapoor,Hyderabad,Delhi,34.0,Male,31,August,2024,Saturday,3,Rice Bag,360.0,0.0,Miscellaneous
+T142,2024-12-26,C007,P013,7,2926,Aarav Sharma,Mumbai,,57.0,Female,26,December,2024,Thursday,4,Washing Powder,526.68,292.6,Miscellaneous
+T143,2024-05-29,C003,P007,9,3600,Kavya Nair,,,47.0,Female,29,May,2024,Wednesday,2,Toothpaste,648.0,360.0,Miscellaneous
+T144,02/14/2024,C016,P016,9,1485,Kavya Nair,Bangalore,Maharashtra,54.0,Female,14,February,2024,Wednesday,1,Milk Carton,267.3,148.5,Miscellaneous
+T145,2024-05-19,C015,P012,7,2338,Omkar Iyer,Kolkata,West Bengal,24.0,Male,19,May,2024,Sunday,2,Milk Carton,420.84,233.8,Dairy
+T146,2024-01-13,C047,P012,3,1002,Aditi Kapoor,Mumbai,Tamil Nadu,60.0,Male,13,January,2024,Saturday,1,Cheese Block,180.35999999999999,0.0,Dairy
+T147,2024-01-23,C020,P009,8,2024,Meera Rao,Delhi,,37.0,Male,23,January,2024,Tuesday,1,Butter Pack,364.32,202.4,Miscellaneous
+T148,05/03/2024,C003,P008,2,262,Siddharth Bansal,Mumbai,Telangana,47.0,Female,3,May,2024,Friday,2,Cheese Block,47.16,0.0,Miscellaneous
+T149,2024-04-28,C044,P003,5,2050,Aditi Kapoor,Ahmedabad,Maharashtra,49.0,Female,28,April,2024,Sunday,2,Biscuits,369.0,0.0,Beverages
+T150,04/25/2024,C005,P018,7,3115,Aryan Singh,Mumbai,West Bengal,45.0,Male,25,April,2024,Thursday,2,Face Wash,560.6999999999999,311.5,Miscellaneous
+T151,2024-08-20,C013,P009,2,506,Aryan Singh,Kolkata,Delhi,46.0,Female,20,August,2024,Tuesday,3,Coffee Pack,91.08,0.0,Miscellaneous
+T152,08-10-2024,C041,P012,3,1002,Vihaan Patel,Hyderabad,Tamil Nadu,31.0,Female,8,October,2024,Tuesday,4,Coffee Pack,180.35999999999999,0.0,Dairy
+T153,2024-09-14,C049,P017,9,3384,Rohan Desai,Chennai,Tamil Nadu,32.0,Male,14,September,2024,Saturday,3,Cheese Block,609.12,338.40000000000003,Miscellaneous
+T154,06/05/2024,C008,P020,10,3210,Kabir Khanna,Hyderabad,Karnataka,50.0,Male,5,June,2024,Wednesday,2,Detergent Liquid,577.8,321.0,Miscellaneous
+T155,2024-01-03,C028,P010,5,750,Kabir Khanna,Mumbai,Delhi,42.0,Male,3,January,2024,Wednesday,1,Biscuits,135.0,0.0,Miscellaneous
+T156,07/05/2024,C008,P003,3,1230,Aarav Sharma,Hyderabad,Karnataka,50.0,Male,5,July,2024,Friday,3,Face Wash,221.4,0.0,Beverages
+T157,08/07/2024,C020,P001,8,1984,Simran Kaur,Delhi,Gujarat,,Male,7,August,2024,Wednesday,3,Detergent Liquid,357.12,198.4,Snacks
+T158,2024-06-18,C031,P008,1,131,Pooja Menon,Kolkata,West Bengal,54.0,Male,18,June,2024,Tuesday,2,Milk Carton,23.58,0.0,Miscellaneous
+T159,02/25/2024,C016,P005,10,3070,Vihaan Patel,Bangalore,Maharashtra,54.0,Female,25,February,2024,Sunday,1,Face Wash,552.6,307.0,Personal Care
+T160,2024-06-22,C020,P001,6,1488,Vihaan Patel,,Gujarat,37.0,Male,22,June,2024,Saturday,2,Chocolate Bar,267.84,148.8,Snacks
+T161,13-04-2024,C037,P009,7,1771,Nisha Roy,Delhi,Karnataka,54.0,Female,13,April,2024,Saturday,2,Bath Soap,318.78,177.10000000000002,Miscellaneous
+T162,01/12/2024,C007,P009,3,759,Pooja Menon,Mumbai,West Bengal,,Female,12,January,2024,Friday,1,Milk Carton,136.62,0.0,Miscellaneous
+T163,03/06/2024,C036,P009,5,1265,Rohan Desai,Mumbai,West Bengal,38.0,Male,6,March,2024,Wednesday,1,Chocolate Bar,227.7,0.0,Miscellaneous
+T164,04/21/2024,C034,P006,3,1086,Aditi Kapoor,,Gujarat,,Female,21,April,2024,Sunday,2,Cheese Block,195.48,0.0,Miscellaneous
+T165,10/01/2024,C039,P001,9,2232,Ishita Mehta,Ahmedabad,Gujarat,20.0,Male,1,October,2024,Tuesday,4,Toothpaste,401.76,223.20000000000002,Snacks
+T166,30-03-2024,C012,P019,1,293,Siddharth Bansal,Delhi,West Bengal,,Female,30,March,2024,Saturday,1,Butter Pack,52.739999999999995,0.0,Miscellaneous
+T167,03-04-2024,C001,P020,5,1605,Simran Kaur,Bangalore,,52.0,Male,3,April,2024,Wednesday,2,Biscuits,288.9,0.0,Miscellaneous
+T168,2024-01-16,C037,P011,10,830,Anaya Gupta,Delhi,,54.0,Female,16,January,2024,Tuesday,1,Milk Carton,149.4,83.0,Miscellaneous
+T169,10/17/2024,C017,P007,8,3200,Omkar Iyer,Chennai,Delhi,56.0,Male,17,October,2024,Thursday,4,Chocolate Bar,576.0,320.0,Miscellaneous
+T170,01/08/2024,C007,P008,7,917,Nisha Roy,Mumbai,West Bengal,57.0,Female,8,January,2024,Monday,1,Green Tea,165.06,91.7,Miscellaneous
+T171,23-12-2024,C006,P005,1,307,Omkar Iyer,Hyderabad,Karnataka,28.0,Male,23,December,2024,Monday,4,Chocolate Bar,55.26,0.0,Personal Care
+T172,2024-07-18,C042,P008,4,524,Aryan Singh,Hyderabad,Delhi,34.0,Male,18,July,2024,Thursday,3,Bath Soap,94.32,0.0,Miscellaneous
+T173,01-02-2024,C028,P015,4,640,Aarav Sharma,Mumbai,Delhi,42.0,Male,1,February,2024,Thursday,1,Hand Sanitizer,115.19999999999999,0.0,Household
+T174,10-03-2024,C002,P016,4,660,Siddharth Bansal,Delhi,Telangana,48.0,Male,10,March,2024,Sunday,1,Rice Bag,118.8,0.0,Miscellaneous
+T175,2024-05-14,C029,P015,8,1280,Aarav Sharma,Bangalore,Delhi,39.0,Male,14,May,2024,Tuesday,2,Hand Sanitizer,230.39999999999998,128.0,Household
+T176,05/27/2024,C044,P009,3,759,Ishita Mehta,Ahmedabad,,49.0,Female,27,May,2024,Monday,2,Butter Pack,136.62,0.0,Miscellaneous
+T177,04/07/2024,C022,P009,8,2024,Aditya Jain,Delhi,Telangana,34.0,Male,7,April,2024,Sunday,2,Chocolate Bar,364.32,202.4,Miscellaneous
+T178,22-11-2024,C049,P005,5,1535,Vihaan Patel,Chennai,Tamil Nadu,32.0,Male,22,November,2024,Friday,4,Energy Drink,276.3,0.0,Personal Care
+T179,19-09-2024,C043,P011,2,166,Ishita Mehta,Delhi,Gujarat,32.0,Female,19,September,2024,Thursday,3,Bath Soap,29.88,0.0,Miscellaneous
+T180,27-05-2024,C039,P018,3,1335,Pooja Menon,Ahmedabad,Gujarat,20.0,Male,27,May,2024,Monday,2,Cheese Block,240.29999999999998,0.0,Miscellaneous
+T181,2024-01-10,C012,P017,3,1128,Arjun Verma,Delhi,West Bengal,27.0,Female,10,January,2024,Wednesday,1,Cooking Oil,203.04,0.0,Miscellaneous
+T182,2024-04-24,C034,P005,9,2763,Vihaan Patel,Kolkata,Gujarat,28.0,Female,24,April,2024,Wednesday,2,Cereal Box,497.34,276.3,Personal Care
+T183,02-02-2024,C028,P011,3,249,Kabir Khanna,Mumbai,Delhi,,Male,2,February,2024,Friday,1,Green Tea,44.82,0.0,Miscellaneous
+T184,01/04/2024,C002,P005,8,2456,Meera Rao,Delhi,Telangana,48.0,Male,4,January,2024,Thursday,1,Coffee Pack,442.08,245.60000000000002,Personal Care
+T185,07/06/2024,C001,P009,7,1771,Neha Joshi,Bangalore,West Bengal,52.0,Male,6,July,2024,Saturday,3,Chocolate Bar,318.78,177.10000000000002,Miscellaneous
+T186,2024-10-26,C010,P014,5,2150,Pooja Menon,Hyderabad,Telangana,43.0,Female,26,October,2024,Saturday,4,Butter Pack,387.0,0.0,Miscellaneous
+T187,2024-02-12,C036,P012,1,334,Aryan Singh,Mumbai,West Bengal,38.0,Male,12,February,2024,Monday,1,Energy Drink,60.12,0.0,Dairy
+T188,11/14/2024,C013,P013,4,1672,Aditya Jain,Kolkata,Delhi,46.0,Female,14,November,2024,Thursday,4,Detergent Liquid,300.96,0.0,Miscellaneous
+T189,2024-07-31,C049,P006,6,2172,Rohan Desai,Chennai,Tamil Nadu,32.0,Male,31,July,2024,Wednesday,3,Rice Bag,390.96,217.20000000000002,Miscellaneous
+T190,05/05/2024,C012,P001,9,2232,Simran Kaur,Delhi,West Bengal,27.0,Female,5,May,2024,Sunday,2,Cooking Oil,401.76,223.20000000000002,Snacks
+T191,30-09-2024,C038,P009,9,2277,Anaya Gupta,Hyderabad,Maharashtra,37.0,Female,30,September,2024,Monday,3,Milk Carton,409.85999999999996,227.70000000000002,Miscellaneous
+T192,2024-10-04,C037,P017,4,1504,Vihaan Patel,Delhi,Karnataka,54.0,Female,4,October,2024,Friday,4,Detergent Liquid,270.71999999999997,0.0,Miscellaneous
+T193,08-01-2024,C050,P013,1,418,Meera Rao,Ahmedabad,Karnataka,30.0,Male,8,January,2024,Monday,1,Green Tea,75.24,0.0,Miscellaneous
+T194,2024-01-23,C008,P017,10,3760,Aditi Kapoor,Hyderabad,Karnataka,50.0,Male,23,January,2024,Tuesday,1,Hand Sanitizer,676.8,376.0,Miscellaneous
+T195,2024-03-05,C034,P017,2,752,Pooja Menon,Kolkata,Gujarat,28.0,Female,5,March,2024,Tuesday,1,Chocolate Bar,135.35999999999999,0.0,Miscellaneous
+T196,20-02-2024,C007,P019,8,2344,Aarav Sharma,Mumbai,West Bengal,57.0,Female,20,February,2024,Tuesday,1,Butter Pack,421.91999999999996,234.4,Miscellaneous
+T197,05-05-2024,C032,P019,10,2930,Ishita Mehta,,Delhi,19.0,Male,5,May,2024,Sunday,2,Washing Powder,527.4,293.0,Miscellaneous
+T198,2024-08-17,C040,P004,9,4365,Vihaan Patel,Kolkata,Gujarat,34.0,Male,17,August,2024,Saturday,3,Hand Sanitizer,785.6999999999999,436.5,Miscellaneous
+T199,25-09-2024,C050,P011,5,415,Vihaan Patel,Ahmedabad,Karnataka,30.0,Male,25,September,2024,Wednesday,3,Face Wash,74.7,0.0,Miscellaneous
+T200,07/15/2024,C004,P004,9,4365,Neha Joshi,Bangalore,Telangana,34.0,Female,15,July,2024,Monday,3,Chocolate Bar,785.6999999999999,436.5,Miscellaneous
+T201,03/01/2024,C008,P012,9,3006,Neha Joshi,Hyderabad,Karnataka,50.0,Male,1,March,2024,Friday,1,Cheese Block,541.0799999999999,300.6,Dairy
+T202,18-04-2024,C025,P008,8,1048,Aditi Kapoor,Bangalore,Delhi,38.0,Female,18,April,2024,Thursday,2,Washing Powder,188.64,104.80000000000001,Miscellaneous
+T203,12/28/2024,C038,P017,8,3008,Simran Kaur,Hyderabad,Maharashtra,37.0,Female,28,December,2024,Saturday,4,Cheese Block,541.4399999999999,300.8,Miscellaneous
+T204,01/04/2024,C029,P014,400,344000,Aryan Singh,,Delhi,,Male,4,January,2024,Thursday,1,Butter Pack,619.1999999999999,344.0,Miscellaneous
+T205,09/03/2024,C013,P009,3,759,Vihaan Patel,Kolkata,Delhi,46.0,Female,3,September,2024,Tuesday,3,Yogurt Cup,136.62,0.0,Miscellaneous
+T206,2024-11-13,C043,P006,9,3258,Aryan Singh,Delhi,Gujarat,32.0,Female,13,November,2024,Wednesday,4,Shampoo Bottle,586.4399999999999,325.8,Miscellaneous
+T207,07/31/2024,C004,P002,6,1614,Aditya Jain,Bangalore,Telangana,34.0,Female,31,July,2024,Wednesday,3,Cereal Box,290.52,161.4,Miscellaneous
+T208,12/30/2024,C027,P017,6,2256,Aarav Sharma,Ahmedabad,Maharashtra,25.0,Male,30,December,2024,Monday,4,Cheese Block,406.08,225.60000000000002,Miscellaneous
+T209,28-06-2024,C011,P009,3,759,Aditya Jain,Delhi,West Bengal,52.0,Female,28,June,2024,Friday,2,Toothpaste,136.62,0.0,Miscellaneous
+T210,04/21/2024,C038,P003,10,4100,Aryan Singh,Hyderabad,Maharashtra,37.0,Female,21,April,2024,Sunday,2,Chocolate Bar,738.0,410.0,Beverages
+T211,2024-08-21,C021,P005,3,921,Pooja Menon,Hyderabad,Tamil Nadu,29.0,Female,21,August,2024,Wednesday,3,Toothpaste,165.78,0.0,Personal Care
+T212,2024-02-09,C007,P012,7,2338,Omkar Iyer,Mumbai,West Bengal,57.0,Female,9,February,2024,Friday,1,Packaged Juice,420.84,233.8,Dairy
+T213,29-06-2024,C014,P012,2,668,Anaya Gupta,Chennai,West Bengal,56.0,Male,29,June,2024,Saturday,2,Packaged Juice,120.24,0.0,Dairy
+T214,2024-01-28,C049,P007,10,4000,Pooja Menon,Chennai,Tamil Nadu,32.0,Male,28,January,2024,Sunday,1,Cheese Block,720.0,400.0,Miscellaneous
+T215,2024-01-10,C001,P010,10,1500,Meera Rao,Bangalore,,52.0,Male,10,January,2024,Wednesday,1,Chocolate Bar,270.0,150.0,Miscellaneous
+T216,11/21/2024,C019,P003,7,2870,Meera Rao,Ahmedabad,Telangana,57.0,Male,21,November,2024,Thursday,4,Hand Sanitizer,516.6,287.0,Beverages
+T217,08/30/2024,C034,P005,1,307,Pooja Menon,Kolkata,,28.0,Female,30,August,2024,Friday,3,Biscuits,55.26,0.0,Personal Care
+T218,2024-10-03,C033,P016,8,1320,Aarav Sharma,Hyderabad,,31.0,Male,3,October,2024,Thursday,4,Hand Sanitizer,237.6,132.0,Miscellaneous
+T219,23-08-2024,C026,P003,7,2870,Pooja Menon,Hyderabad,Maharashtra,19.0,Female,23,August,2024,Friday,3,Yogurt Cup,516.6,287.0,Beverages
+T220,23-02-2024,C044,P020,9,2889,Aryan Singh,Ahmedabad,Maharashtra,49.0,Female,23,February,2024,Friday,1,Green Tea,520.02,288.90000000000003,Miscellaneous
+T221,07/15/2024,C004,P018,4,1780,Aarav Sharma,,Telangana,34.0,Female,15,July,2024,Monday,3,Green Tea,320.4,0.0,Miscellaneous
+T222,2024-05-16,C036,P006,7,2534,Vihaan Patel,Mumbai,West Bengal,38.0,Male,16,May,2024,Thursday,2,Cereal Box,456.12,253.4,Miscellaneous
+T223,11/22/2024,C023,P016,9,1485,Anaya Gupta,Kolkata,Delhi,45.0,Female,22,November,2024,Friday,4,Coffee Pack,267.3,148.5,Miscellaneous
+T224,26-07-2024,C023,P019,9,2637,Siddharth Bansal,,Delhi,45.0,Female,26,July,2024,Friday,3,Biscuits,474.65999999999997,263.7,Miscellaneous
+T225,2024-10-26,C011,P017,5,1880,Aryan Singh,Delhi,,52.0,Female,26,October,2024,Saturday,4,Face Wash,338.4,0.0,Miscellaneous
+T226,02/25/2024,C045,P011,7,581,Vihaan Patel,,Delhi,33.0,Female,25,February,2024,Sunday,1,Washing Powder,104.58,58.1,Miscellaneous
+T227,10/06/2024,C020,P007,1,400,Nisha Roy,Delhi,Gujarat,37.0,Male,6,October,2024,Sunday,4,Rice Bag,72.0,0.0,Miscellaneous
+T228,11-09-2024,C033,P017,3,1128,Aditya Jain,Hyderabad,West Bengal,31.0,Male,11,September,2024,Wednesday,3,Cheese Block,203.04,0.0,Miscellaneous
+T229,05/17/2024,C003,P014,5,2150,Aryan Singh,,Telangana,47.0,Female,17,May,2024,Friday,2,Biscuits,387.0,0.0,Miscellaneous
+T230,13-07-2024,C013,P002,5,1345,Kavya Nair,Kolkata,Delhi,46.0,Female,13,July,2024,Saturday,3,Yogurt Cup,242.1,0.0,Miscellaneous
+T231,09-11-2024,C027,P011,4,332,Omkar Iyer,Ahmedabad,Maharashtra,25.0,Male,9,November,2024,Saturday,4,Washing Powder,59.76,0.0,Miscellaneous
+T232,2024-01-13,C037,P002,6,1614,Simran Kaur,Delhi,Karnataka,54.0,Female,13,January,2024,Saturday,1,Green Tea,290.52,161.4,Miscellaneous
+T233,2024-10-23,C018,P020,6,1926,Aryan Singh,Ahmedabad,Maharashtra,29.0,Male,23,October,2024,Wednesday,4,Coffee Pack,346.68,192.60000000000002,Miscellaneous
+T234,10/08/2024,C003,P017,1,376,Aditya Jain,,Telangana,47.0,Female,8,October,2024,Tuesday,4,Milk Carton,67.67999999999999,0.0,Miscellaneous
+T235,30-03-2024,C038,P009,6,1518,Vihaan Patel,Hyderabad,,37.0,Female,30,March,2024,Saturday,1,Cooking Oil,273.24,151.8,Miscellaneous
+T236,18-02-2024,C045,P003,4,1640,Meera Rao,Ahmedabad,Delhi,33.0,Female,18,February,2024,Sunday,1,Biscuits,295.2,0.0,Beverages
+T237,2024-10-26,C020,P010,6,900,Aryan Singh,Delhi,Gujarat,37.0,Male,26,October,2024,Saturday,4,Washing Powder,162.0,90.0,Miscellaneous
+T238,2024-11-04,C037,P009,6,1518,Siddharth Bansal,Delhi,Karnataka,54.0,Female,4,November,2024,Monday,4,Butter Pack,273.24,151.8,Miscellaneous
+T239,13-05-2024,C009,P006,1,362,Siddharth Bansal,,,24.0,Female,13,May,2024,Monday,2,Green Tea,65.16,0.0,Miscellaneous
+T240,2024-08-02,C011,P010,4,600,Simran Kaur,Delhi,West Bengal,52.0,Female,2,August,2024,Friday,3,Toothpaste,108.0,0.0,Miscellaneous
+T241,11/23/2024,C023,P010,2,300,Aditi Kapoor,Kolkata,Delhi,45.0,Female,23,November,2024,Saturday,4,Milk Carton,54.0,0.0,Miscellaneous
+T242,16-02-2024,C038,P016,4,660,Simran Kaur,Hyderabad,Maharashtra,37.0,Female,16,February,2024,Friday,1,Coffee Pack,118.8,0.0,Miscellaneous
+T243,2024-03-07,C043,P010,1,150,Neha Joshi,Delhi,Gujarat,32.0,Female,7,March,2024,Thursday,1,Cooking Oil,27.0,0.0,Miscellaneous
+T244,09/01/2024,C049,P003,4,1640,Arjun Verma,Chennai,Tamil Nadu,32.0,Male,1,September,2024,Sunday,3,Cheese Block,295.2,0.0,Beverages
+T245,05-09-2024,C026,P002,9,2421,Kavya Nair,Hyderabad,Maharashtra,19.0,Female,5,September,2024,Thursday,3,Cheese Block,435.78,242.10000000000002,Miscellaneous
+T246,03/02/2024,C002,P006,7,2534,Kabir Khanna,Delhi,Telangana,,Male,2,March,2024,Saturday,1,Butter Pack,456.12,253.4,Miscellaneous
+T247,07/01/2024,C028,P012,10,3340,Meera Rao,Mumbai,Delhi,,Male,1,July,2024,Monday,3,Toothpaste,601.1999999999999,334.0,Dairy
+T248,07-06-2024,C017,P015,2,320,Dev Agarwal,Chennai,Delhi,56.0,Male,7,June,2024,Friday,2,Toothpaste,57.599999999999994,0.0,Household
+T249,11/04/2024,C007,P011,500,83000,Aarav Sharma,Mumbai,West Bengal,57.0,Female,4,November,2024,Monday,4,Hand Sanitizer,149.4,83.0,Miscellaneous
+T250,2024-08-08,C014,P018,1,445,Rohan Desai,Chennai,West Bengal,56.0,Male,8,August,2024,Thursday,3,Hand Sanitizer,80.1,0.0,Miscellaneous
+T251,2024-04-17,C016,P011,7,581,Kabir Khanna,,,54.0,Female,17,April,2024,Wednesday,2,Butter Pack,104.58,58.1,Miscellaneous
+T252,2024-02-24,C027,P009,9,2277,Ishita Mehta,Ahmedabad,Maharashtra,25.0,Male,24,February,2024,Saturday,1,Rice Bag,409.85999999999996,227.70000000000002,Miscellaneous
+T253,10/24/2024,C020,P006,9,3258,Aditya Jain,Delhi,,37.0,Male,24,October,2024,Thursday,4,Face Wash,586.4399999999999,325.8,Miscellaneous
+T254,2024-01-11,C017,P014,4,1720,Kabir Khanna,Chennai,Delhi,56.0,Male,11,January,2024,Thursday,1,Washing Powder,309.59999999999997,0.0,Miscellaneous
+T255,08/18/2024,C020,P006,6,2172,Kabir Khanna,Delhi,Gujarat,37.0,Male,18,August,2024,Sunday,3,Detergent Liquid,390.96,217.20000000000002,Miscellaneous
+T256,2024-08-29,C048,P006,1,362,Meera Rao,Chennai,Gujarat,56.0,Female,29,August,2024,Thursday,3,Detergent Liquid,65.16,0.0,Miscellaneous
+T257,23-10-2024,C032,P017,1,376,Aditya Jain,Ahmedabad,Delhi,19.0,Male,23,October,2024,Wednesday,4,Cheese Block,67.67999999999999,0.0,Miscellaneous
+T258,01/09/2024,C030,P012,7,2338,Aditi Kapoor,Chennai,Delhi,,Male,9,January,2024,Tuesday,1,Cereal Box,420.84,233.8,Dairy
+T259,03/20/2024,C037,P019,6,1758,Arjun Verma,Delhi,Karnataka,54.0,Female,20,March,2024,Wednesday,1,Milk Carton,316.44,175.8,Miscellaneous
+T260,2024-02-12,C001,P015,10,1600,Siddharth Bansal,Bangalore,West Bengal,52.0,Male,12,February,2024,Monday,1,Yogurt Cup,288.0,160.0,Household
+T261,05-12-2024,C042,P005,1,307,Vihaan Patel,Hyderabad,Delhi,34.0,Male,5,December,2024,Thursday,4,Butter Pack,55.26,0.0,Personal Care
+T262,2024-08-02,C022,P004,1,485,Rohan Desai,Delhi,Telangana,34.0,Male,2,August,2024,Friday,3,Shampoo Bottle,87.3,0.0,Miscellaneous
+T263,2024-06-03,C014,P003,2,820,Nisha Roy,Chennai,West Bengal,56.0,Male,3,June,2024,Monday,2,Shampoo Bottle,147.6,0.0,Beverages
+T264,05-11-2024,C027,P002,7,1883,Aditya Jain,Ahmedabad,Maharashtra,25.0,Male,5,November,2024,Tuesday,4,Hand Sanitizer,338.94,188.3,Miscellaneous
+T265,14-10-2024,C031,P013,3,1254,Riya Saxena,Kolkata,West Bengal,54.0,Male,14,October,2024,Monday,4,Detergent Liquid,225.72,0.0,Miscellaneous
+T266,2024-08-23,C007,P010,9,1350,Neha Joshi,Mumbai,West Bengal,57.0,Female,23,August,2024,Friday,3,Washing Powder,243.0,135.0,Miscellaneous
+T267,10-12-2024,C021,P019,9,2637,Riya Saxena,Hyderabad,Tamil Nadu,29.0,Female,10,December,2024,Tuesday,4,Cereal Box,474.65999999999997,263.7,Miscellaneous
+T268,2024-02-16,C045,P007,7,2800,Dev Agarwal,Ahmedabad,Delhi,33.0,Female,16,February,2024,Friday,1,Energy Drink,504.0,280.0,Miscellaneous
+T269,06/28/2024,C019,P011,9,747,Pooja Menon,Ahmedabad,Telangana,57.0,Male,28,June,2024,Friday,2,Shampoo Bottle,134.46,74.7,Miscellaneous
+T270,2024-03-31,C043,P012,8,2672,Anaya Gupta,Delhi,,,Female,31,March,2024,Sunday,1,Packaged Juice,480.96,267.2,Dairy
+T271,05/03/2024,C027,P005,2,614,Omkar Iyer,,Maharashtra,25.0,Male,3,May,2024,Friday,2,Cooking Oil,110.52,0.0,Personal Care
+T272,2024-11-17,C012,P015,8,1280,Rohan Desai,Delhi,,27.0,Female,17,November,2024,Sunday,4,Cheese Block,230.39999999999998,128.0,Household
+T273,06-11-2024,C043,P006,9,3258,Kavya Nair,Delhi,Gujarat,32.0,Female,6,November,2024,Wednesday,4,Energy Drink,586.4399999999999,325.8,Miscellaneous
+T274,11/25/2024,C040,P018,2,890,Aditya Jain,Kolkata,,,Male,25,November,2024,Monday,4,Bath Soap,160.2,0.0,Miscellaneous
+T275,07-02-2024,C029,P008,2,262,Omkar Iyer,Bangalore,,39.0,Male,7,February,2024,Wednesday,1,Face Wash,47.16,0.0,Miscellaneous
+T276,04/30/2024,C032,P003,8,3280,Meera Rao,Ahmedabad,Delhi,19.0,Male,30,April,2024,Tuesday,2,Shampoo Bottle,590.4,328.0,Beverages
+T277,11/06/2024,C019,P010,7,1050,Dev Agarwal,Ahmedabad,,57.0,Male,6,November,2024,Wednesday,4,Shampoo Bottle,189.0,105.0,Miscellaneous
+T278,2024-12-20,C026,P015,1,160,Meera Rao,Hyderabad,Maharashtra,19.0,Female,20,December,2024,Friday,4,Chocolate Bar,28.799999999999997,0.0,Household
+T279,2024-02-01,C049,P017,10,3760,Anaya Gupta,Chennai,Tamil Nadu,32.0,Male,1,February,2024,Thursday,1,Energy Drink,676.8,376.0,Miscellaneous
+T280,2024-01-28,C033,P020,3,963,Aryan Singh,Hyderabad,West Bengal,31.0,Male,28,January,2024,Sunday,1,Shampoo Bottle,173.34,0.0,Miscellaneous
+T281,2024-07-03,C035,P002,8,2152,Simran Kaur,Ahmedabad,Tamil Nadu,27.0,Male,3,July,2024,Wednesday,3,Detergent Liquid,387.36,215.20000000000002,Miscellaneous
+T282,15-04-2024,C039,P009,1,253,Arjun Verma,,Gujarat,20.0,Male,15,April,2024,Monday,2,Cooking Oil,45.54,0.0,Miscellaneous
+T283,2024-01-05,C041,P019,5,1465,Anaya Gupta,Hyderabad,Tamil Nadu,31.0,Female,5,January,2024,Friday,1,Face Wash,263.7,0.0,Miscellaneous
+T284,2024-02-24,C011,P002,5,1345,Riya Saxena,Delhi,West Bengal,52.0,Female,24,February,2024,Saturday,1,Chocolate Bar,242.1,0.0,Miscellaneous
+T285,04/15/2024,C025,P020,6,1926,Omkar Iyer,,,38.0,Female,15,April,2024,Monday,2,Biscuits,346.68,192.60000000000002,Miscellaneous
+T286,18-11-2024,C037,P015,8,1280,Anaya Gupta,Delhi,Karnataka,54.0,Female,18,November,2024,Monday,4,Detergent Liquid,230.39999999999998,128.0,Household
+T287,06-02-2024,C050,P012,2,668,Ishita Mehta,Ahmedabad,Karnataka,30.0,Male,6,February,2024,Tuesday,1,Cereal Box,120.24,0.0,Dairy
+T288,07/18/2024,C006,P005,5,1535,Aryan Singh,Hyderabad,Karnataka,28.0,Male,18,July,2024,Thursday,3,Washing Powder,276.3,0.0,Personal Care
+T289,05/06/2024,C004,P016,4,660,Meera Rao,Bangalore,Telangana,34.0,Female,6,May,2024,Monday,2,Green Tea,118.8,0.0,Miscellaneous
+T290,2024-12-11,C039,P009,6,1518,Ishita Mehta,Ahmedabad,Gujarat,20.0,Male,11,December,2024,Wednesday,4,Face Wash,273.24,151.8,Miscellaneous
+T291,16-10-2024,C022,P016,3,495,Ishita Mehta,Delhi,Telangana,34.0,Male,16,October,2024,Wednesday,4,Cereal Box,89.1,0.0,Miscellaneous
+T292,2024-07-20,C048,P006,7,2534,Arjun Verma,Chennai,Gujarat,56.0,Female,20,July,2024,Saturday,3,Cooking Oil,456.12,253.4,Miscellaneous
+T293,09/23/2024,C046,P016,8,1320,Aryan Singh,Hyderabad,Delhi,29.0,Female,23,September,2024,Monday,3,Yogurt Cup,237.6,132.0,Miscellaneous
+T294,2024-04-17,C047,P009,3,759,Meera Rao,Mumbai,Tamil Nadu,60.0,Male,17,April,2024,Wednesday,2,Toothpaste,136.62,0.0,Miscellaneous
+T295,22-01-2024,C004,P005,2,614,Riya Saxena,Bangalore,Telangana,34.0,Female,22,January,2024,Monday,1,Energy Drink,110.52,0.0,Personal Care
+T296,2024-12-12,C025,P009,7,1771,Aryan Singh,Bangalore,Delhi,38.0,Female,12,December,2024,Thursday,4,Bath Soap,318.78,177.10000000000002,Miscellaneous
+T297,06-01-2024,C007,P005,2,614,Aryan Singh,,West Bengal,57.0,Female,6,January,2024,Saturday,1,Cereal Box,110.52,0.0,Personal Care
+T298,2024-04-25,C041,P017,4,1504,Kabir Khanna,Hyderabad,Tamil Nadu,31.0,Female,25,April,2024,Thursday,2,Rice Bag,270.71999999999997,0.0,Miscellaneous
+T299,2024-11-28,C046,P020,5,1605,Nisha Roy,Hyderabad,Delhi,29.0,Female,28,November,2024,Thursday,4,Face Wash,288.9,0.0,Miscellaneous
+T300,14-02-2024,C042,P001,1,248,Anaya Gupta,Hyderabad,Delhi,34.0,Male,14,February,2024,Wednesday,1,Packaged Juice,44.64,0.0,Snacks
+T301,02-08-2024,C015,P010,3,450,Neha Joshi,,West Bengal,,Male,2,August,2024,Friday,3,Cereal Box,81.0,0.0,Miscellaneous
+T302,28-01-2024,C038,P008,8,1048,Ishita Mehta,Hyderabad,Maharashtra,37.0,Female,28,January,2024,Sunday,1,Packaged Juice,188.64,104.80000000000001,Miscellaneous
+T303,2024-03-18,C028,P001,7,1736,Aditi Kapoor,Mumbai,Delhi,42.0,Male,18,March,2024,Monday,1,Hand Sanitizer,312.47999999999996,173.60000000000002,Snacks
+T304,2024-11-01,C035,P010,9,1350,Meera Rao,Ahmedabad,Tamil Nadu,27.0,Male,1,November,2024,Friday,4,Milk Carton,243.0,135.0,Miscellaneous
+T305,2024-05-19,C043,P009,5,1265,Arjun Verma,Delhi,Gujarat,32.0,Female,19,May,2024,Sunday,2,Yogurt Cup,227.7,0.0,Miscellaneous
+T306,04/19/2024,C047,P011,5,415,Nisha Roy,Mumbai,Tamil Nadu,,Male,19,April,2024,Friday,2,Green Tea,74.7,0.0,Miscellaneous
+T307,2024-12-22,C045,P004,2,970,Vihaan Patel,Ahmedabad,Delhi,33.0,Female,22,December,2024,Sunday,4,Rice Bag,174.6,0.0,Miscellaneous
+T308,14-06-2024,C033,P002,9,2421,Rohan Desai,Hyderabad,West Bengal,31.0,Male,14,June,2024,Friday,2,Packaged Juice,435.78,242.10000000000002,Miscellaneous
+T309,26-05-2024,C008,P012,9,3006,Siddharth Bansal,Hyderabad,Karnataka,50.0,Male,26,May,2024,Sunday,2,Packaged Juice,541.0799999999999,300.6,Dairy
+T310,19-09-2024,C006,P018,10,4450,Kabir Khanna,Hyderabad,Karnataka,28.0,Male,19,September,2024,Thursday,3,Yogurt Cup,801.0,445.0,Miscellaneous
+T311,2024-03-17,C029,P007,2,800,Siddharth Bansal,Bangalore,Delhi,39.0,Male,17,March,2024,Sunday,1,Chocolate Bar,144.0,0.0,Miscellaneous
+T312,21-11-2024,C028,P016,10,1650,Aditi Kapoor,Mumbai,Delhi,42.0,Male,21,November,2024,Thursday,4,Coffee Pack,297.0,165.0,Miscellaneous
+T313,27-07-2024,C037,P012,1,334,Aryan Singh,Delhi,Karnataka,54.0,Female,27,July,2024,Saturday,3,Coffee Pack,60.12,0.0,Dairy
+T314,10/12/2024,C002,P008,9,1179,Omkar Iyer,Delhi,Telangana,48.0,Male,12,October,2024,Saturday,4,Bath Soap,212.22,117.9,Miscellaneous
+T315,10/01/2024,C003,P014,5,2150,Nisha Roy,Mumbai,Telangana,,Female,1,October,2024,Tuesday,4,Coffee Pack,387.0,0.0,Miscellaneous
+T316,16-11-2024,C039,P020,2,642,Pooja Menon,Ahmedabad,Gujarat,20.0,Male,16,November,2024,Saturday,4,Rice Bag,115.56,0.0,Miscellaneous
+T317,07/23/2024,C048,P002,7,1883,Neha Joshi,Chennai,Gujarat,56.0,Female,23,July,2024,Tuesday,3,Energy Drink,338.94,188.3,Miscellaneous
+T318,05/15/2024,C029,P011,6,498,Riya Saxena,Bangalore,Delhi,39.0,Male,15,May,2024,Wednesday,2,Coffee Pack,89.64,49.800000000000004,Miscellaneous
+T319,31-05-2024,C001,P019,8,2344,Arjun Verma,Bangalore,West Bengal,52.0,Male,31,May,2024,Friday,2,Cereal Box,421.91999999999996,234.4,Miscellaneous
+T320,2024-12-28,C049,P018,1,445,Vihaan Patel,Chennai,Tamil Nadu,32.0,Male,28,December,2024,Saturday,4,Washing Powder,80.1,0.0,Miscellaneous
+T321,2024-05-08,C030,P008,8,1048,Anaya Gupta,Chennai,Delhi,19.0,Male,8,May,2024,Wednesday,2,Washing Powder,188.64,104.80000000000001,Miscellaneous
+T322,30-05-2024,C013,P018,5,2225,Aarav Sharma,Kolkata,Delhi,46.0,Female,30,May,2024,Thursday,2,Detergent Liquid,400.5,0.0,Miscellaneous
+T323,2024-05-02,C011,P011,9,747,Riya Saxena,Delhi,,52.0,Female,2,May,2024,Thursday,2,Cereal Box,134.46,74.7,Miscellaneous
+T324,06/01/2024,C025,P001,8,1984,Siddharth Bansal,Bangalore,,38.0,Female,1,June,2024,Saturday,2,Toothpaste,357.12,198.4,Snacks
+T325,18-06-2024,C042,P005,3,921,Dev Agarwal,Hyderabad,Delhi,34.0,Male,18,June,2024,Tuesday,2,Cheese Block,165.78,0.0,Personal Care
+T326,2024-09-22,C042,P002,10,2690,Arjun Verma,Hyderabad,Delhi,34.0,Male,22,September,2024,Sunday,3,Green Tea,484.2,269.0,Miscellaneous
+T327,2024-09-01,C022,P013,7,2926,Dev Agarwal,Delhi,Telangana,34.0,Male,1,September,2024,Sunday,3,Green Tea,526.68,292.6,Miscellaneous
+T328,02/17/2024,C019,P012,10,3340,Aryan Singh,Ahmedabad,Telangana,57.0,Male,17,February,2024,Saturday,1,Coffee Pack,601.1999999999999,334.0,Dairy
+T329,09-07-2024,C038,P007,8,3200,Riya Saxena,Hyderabad,Maharashtra,37.0,Female,9,July,2024,Tuesday,3,Yogurt Cup,576.0,320.0,Miscellaneous
+T330,21-12-2024,C012,P016,6,990,Kabir Khanna,Delhi,West Bengal,27.0,Female,21,December,2024,Saturday,4,Cooking Oil,178.2,99.0,Miscellaneous
+T331,10/09/2024,C024,P009,2,506,Meera Rao,Hyderabad,West Bengal,37.0,Female,9,October,2024,Wednesday,4,Coffee Pack,91.08,0.0,Miscellaneous
+T332,15-03-2024,C050,P016,8,1320,Anaya Gupta,Ahmedabad,Karnataka,,Male,15,March,2024,Friday,1,Chocolate Bar,237.6,132.0,Miscellaneous
+T333,25-11-2024,C020,P014,8,3440,Ishita Mehta,Delhi,,37.0,Male,25,November,2024,Monday,4,Milk Carton,619.1999999999999,344.0,Miscellaneous
+T334,08/18/2024,C009,P010,7,1050,Aarav Sharma,Mumbai,Gujarat,24.0,Female,18,August,2024,Sunday,3,Toothpaste,189.0,105.0,Miscellaneous
+T335,12/07/2024,C028,P020,10,3210,Aditi Kapoor,Mumbai,Delhi,42.0,Male,7,December,2024,Saturday,4,Face Wash,577.8,321.0,Miscellaneous
+T336,2024-04-02,C015,P008,9,1179,Rohan Desai,Kolkata,West Bengal,24.0,Male,2,April,2024,Tuesday,2,Green Tea,212.22,117.9,Miscellaneous
+T337,12-11-2024,C001,P007,3,1200,Aditi Kapoor,Bangalore,West Bengal,52.0,Male,12,November,2024,Tuesday,4,Green Tea,216.0,0.0,Miscellaneous
+T338,11/21/2024,C010,P001,2,496,Dev Agarwal,Hyderabad,Telangana,43.0,Female,21,November,2024,Thursday,4,Detergent Liquid,89.28,0.0,Snacks
+T339,2024-03-03,C006,P012,7,2338,Kavya Nair,Hyderabad,Karnataka,28.0,Male,3,March,2024,Sunday,1,Washing Powder,420.84,233.8,Dairy
+T340,30-07-2024,C049,P006,6,2172,Simran Kaur,Chennai,Tamil Nadu,32.0,Male,30,July,2024,Tuesday,3,Washing Powder,390.96,217.20000000000002,Miscellaneous
+T341,2024-07-20,C035,P010,7,1050,Rohan Desai,Ahmedabad,Tamil Nadu,27.0,Male,20,July,2024,Saturday,3,Green Tea,189.0,105.0,Miscellaneous
+T342,03/08/2024,C050,P013,9,3762,Meera Rao,Ahmedabad,Karnataka,30.0,Male,8,March,2024,Friday,1,Cheese Block,677.16,376.20000000000005,Miscellaneous
+T343,10-06-2024,C021,P007,8,3200,Vihaan Patel,Hyderabad,Tamil Nadu,29.0,Female,10,June,2024,Monday,2,Chocolate Bar,576.0,320.0,Miscellaneous
+T344,2024-10-17,C025,P005,5,1535,Omkar Iyer,Bangalore,Delhi,38.0,Female,17,October,2024,Thursday,4,Rice Bag,276.3,0.0,Personal Care
+T345,12/09/2024,C007,P013,4,1672,Aryan Singh,,West Bengal,57.0,Female,9,December,2024,Monday,4,Coffee Pack,300.96,0.0,Miscellaneous
+T346,05/11/2024,C037,P009,3,759,Omkar Iyer,Delhi,Karnataka,54.0,Female,11,May,2024,Saturday,2,Yogurt Cup,136.62,0.0,Miscellaneous
+T347,12/04/2024,C028,P018,2,890,Vihaan Patel,Mumbai,Delhi,42.0,Male,4,December,2024,Wednesday,4,Green Tea,160.2,0.0,Miscellaneous
+T348,04/16/2024,C013,P006,6,2172,Ishita Mehta,Kolkata,Delhi,46.0,Female,16,April,2024,Tuesday,2,Cheese Block,390.96,217.20000000000002,Miscellaneous
+T349,08/21/2024,C002,P020,8,2568,Kavya Nair,,Telangana,,Male,21,August,2024,Wednesday,3,Hand Sanitizer,462.24,256.8,Miscellaneous
+T350,09/23/2024,C002,P015,2,320,Aditi Kapoor,Delhi,Telangana,48.0,Male,23,September,2024,Monday,3,Biscuits,57.599999999999994,0.0,Household
+T351,01/13/2024,C001,P010,1,150,Pooja Menon,Bangalore,West Bengal,52.0,Male,13,January,2024,Saturday,1,Detergent Liquid,27.0,0.0,Miscellaneous
+T352,2024-10-16,C017,P019,8,2344,Nisha Roy,Chennai,Delhi,56.0,Male,16,October,2024,Wednesday,4,Biscuits,421.91999999999996,234.4,Miscellaneous
+T353,15-02-2024,C036,P017,6,2256,Nisha Roy,,West Bengal,38.0,Male,15,February,2024,Thursday,1,Green Tea,406.08,225.60000000000002,Miscellaneous
+T354,18-05-2024,C037,P013,2,836,Dev Agarwal,Delhi,Karnataka,54.0,Female,18,May,2024,Saturday,2,Toothpaste,150.48,0.0,Miscellaneous
+T355,2024-02-07,C044,P010,1,150,Kavya Nair,Ahmedabad,Maharashtra,49.0,Female,7,February,2024,Wednesday,1,Packaged Juice,27.0,0.0,Miscellaneous
+T356,05/07/2024,C046,P016,10,1650,Simran Kaur,Hyderabad,Delhi,29.0,Female,7,May,2024,Tuesday,2,Hand Sanitizer,297.0,165.0,Miscellaneous
+T357,04-04-2024,C042,P020,2,642,Kavya Nair,Hyderabad,Delhi,34.0,Male,4,April,2024,Thursday,2,Chocolate Bar,115.56,0.0,Miscellaneous
+T358,08/17/2024,C049,P006,9,3258,Pooja Menon,Chennai,Tamil Nadu,32.0,Male,17,August,2024,Saturday,3,Biscuits,586.4399999999999,325.8,Miscellaneous
+T359,26-05-2024,C034,P019,6,1758,Ishita Mehta,Kolkata,Gujarat,28.0,Female,26,May,2024,Sunday,2,Rice Bag,316.44,175.8,Miscellaneous
+T360,01/20/2024,C027,P008,6,786,Nisha Roy,Ahmedabad,Maharashtra,25.0,Male,20,January,2024,Saturday,1,Green Tea,141.48,78.60000000000001,Miscellaneous
+T361,2024-03-23,C022,P015,8,1280,Aditi Kapoor,Delhi,Telangana,34.0,Male,23,March,2024,Saturday,1,Biscuits,230.39999999999998,128.0,Household
+T362,10/16/2024,C038,P008,7,917,Aditya Jain,Hyderabad,Maharashtra,37.0,Female,16,October,2024,Wednesday,4,Energy Drink,165.06,91.7,Miscellaneous
+T363,02-01-2024,C018,P005,7,2149,Dev Agarwal,Ahmedabad,Maharashtra,29.0,Male,2,January,2024,Tuesday,1,Chocolate Bar,386.82,214.9,Personal Care
+T364,12/12/2024,C037,P004,2,970,Vihaan Patel,Delhi,,54.0,Female,12,December,2024,Thursday,4,Butter Pack,174.6,0.0,Miscellaneous
+T365,13-07-2024,C029,P004,9,4365,Pooja Menon,Bangalore,Delhi,39.0,Male,13,July,2024,Saturday,3,Toothpaste,785.6999999999999,436.5,Miscellaneous
+T366,01/05/2024,C046,P012,9,3006,Aarav Sharma,Hyderabad,Delhi,29.0,Female,5,January,2024,Friday,1,Chocolate Bar,541.0799999999999,300.6,Dairy
+T367,24-04-2024,C011,P019,10,2930,Aryan Singh,Delhi,West Bengal,52.0,Female,24,April,2024,Wednesday,2,Cheese Block,527.4,293.0,Miscellaneous
+T368,07-05-2024,C029,P012,5,1670,Aditi Kapoor,,Delhi,39.0,Male,7,May,2024,Tuesday,2,Face Wash,300.59999999999997,0.0,Dairy
+T369,11-05-2024,C023,P008,8,1048,Kabir Khanna,Kolkata,Delhi,45.0,Female,11,May,2024,Saturday,2,Coffee Pack,188.64,104.80000000000001,Miscellaneous
+T370,09/10/2024,C018,P014,2,860,Aarav Sharma,Ahmedabad,Maharashtra,29.0,Male,10,September,2024,Tuesday,3,Detergent Liquid,154.79999999999998,0.0,Miscellaneous
+T371,21-10-2024,C044,P005,3,921,Neha Joshi,,,49.0,Female,21,October,2024,Monday,4,Rice Bag,165.78,0.0,Personal Care
+T372,11/07/2024,C044,P017,8,3008,Neha Joshi,Ahmedabad,Maharashtra,,Female,7,November,2024,Thursday,4,Chocolate Bar,541.4399999999999,300.8,Miscellaneous
+T373,2024-11-18,C015,P004,3,1455,Simran Kaur,Kolkata,West Bengal,24.0,Male,18,November,2024,Monday,4,Washing Powder,261.9,0.0,Miscellaneous
+T374,2024-07-22,C045,P004,10,4850,Neha Joshi,Ahmedabad,,33.0,Female,22,July,2024,Monday,3,Butter Pack,873.0,485.0,Miscellaneous
+T375,19-07-2024,C013,P020,8,2568,Meera Rao,Kolkata,Delhi,46.0,Female,19,July,2024,Friday,3,Packaged Juice,462.24,256.8,Miscellaneous
+T376,01/03/2024,C002,P019,8,2344,Simran Kaur,Delhi,Telangana,48.0,Male,3,January,2024,Wednesday,1,Energy Drink,421.91999999999996,234.4,Miscellaneous
+T377,04-02-2024,C020,P001,9,2232,Meera Rao,Delhi,Gujarat,37.0,Male,4,February,2024,Sunday,1,Bath Soap,401.76,223.20000000000002,Snacks
+T378,06/03/2024,C007,P004,4,1940,Ishita Mehta,Mumbai,West Bengal,57.0,Female,3,June,2024,Monday,2,Cereal Box,349.2,0.0,Miscellaneous
+T379,01/10/2024,C007,P010,7,1050,Meera Rao,Mumbai,West Bengal,57.0,Female,10,January,2024,Wednesday,1,Bath Soap,189.0,105.0,Miscellaneous
+T380,2024-12-24,C017,P017,3,1128,Meera Rao,Chennai,,56.0,Male,24,December,2024,Tuesday,4,Biscuits,203.04,0.0,Miscellaneous
+T381,11/07/2024,C025,P004,8,3880,Omkar Iyer,Bangalore,Delhi,38.0,Female,7,November,2024,Thursday,4,Chocolate Bar,698.4,388.0,Miscellaneous
+T382,04/26/2024,C033,P010,7,1050,Omkar Iyer,Hyderabad,West Bengal,31.0,Male,26,April,2024,Friday,2,Washing Powder,189.0,105.0,Miscellaneous
+T383,27-03-2024,C014,P018,3,1335,Aditya Jain,Chennai,West Bengal,,Male,27,March,2024,Wednesday,1,Face Wash,240.29999999999998,0.0,Miscellaneous
+T384,21-06-2024,C023,P013,6,2508,Aryan Singh,Kolkata,Delhi,45.0,Female,21,June,2024,Friday,2,Toothpaste,451.44,250.8,Miscellaneous
+T385,12/05/2024,C001,P008,7,917,Riya Saxena,Bangalore,West Bengal,52.0,Male,5,December,2024,Thursday,4,Bath Soap,165.06,91.7,Miscellaneous
+T386,2024-05-22,C003,P001,6,1488,Aarav Sharma,Mumbai,Telangana,47.0,Female,22,May,2024,Wednesday,2,Chocolate Bar,267.84,148.8,Snacks
+T387,26-07-2024,C028,P006,8,2896,Vihaan Patel,Mumbai,Delhi,42.0,Male,26,July,2024,Friday,3,Milk Carton,521.28,289.6,Miscellaneous
+T388,23-06-2024,C034,P002,4,1076,Nisha Roy,,Gujarat,28.0,Female,23,June,2024,Sunday,2,Cereal Box,193.68,0.0,Miscellaneous
+T389,2024-10-05,C003,P007,4,1600,Simran Kaur,Mumbai,,47.0,Female,5,October,2024,Saturday,4,Energy Drink,288.0,0.0,Miscellaneous
+T390,12-04-2024,C015,P017,1,376,Anaya Gupta,,,24.0,Male,12,April,2024,Friday,2,Butter Pack,67.67999999999999,0.0,Miscellaneous
+T391,05/23/2024,C048,P004,1,485,Omkar Iyer,Chennai,Gujarat,,Female,23,May,2024,Thursday,2,Butter Pack,87.3,0.0,Miscellaneous
+T392,09/28/2024,C027,P009,9,2277,Aditi Kapoor,Ahmedabad,Maharashtra,25.0,Male,28,September,2024,Saturday,3,Chocolate Bar,409.85999999999996,227.70000000000002,Miscellaneous
+T393,02/28/2024,C011,P015,4,640,Kabir Khanna,Delhi,West Bengal,52.0,Female,28,February,2024,Wednesday,1,Washing Powder,115.19999999999999,0.0,Household
+T394,08-08-2024,C042,P016,6,990,Meera Rao,Hyderabad,Delhi,34.0,Male,8,August,2024,Thursday,3,Energy Drink,178.2,99.0,Miscellaneous
+T395,17-12-2024,C048,P016,3,495,Aarav Sharma,Chennai,Gujarat,,Female,17,December,2024,Tuesday,4,Cooking Oil,89.1,0.0,Miscellaneous
+T396,28-10-2024,C033,P020,3,963,Kavya Nair,Hyderabad,West Bengal,31.0,Male,28,October,2024,Monday,4,Toothpaste,173.34,0.0,Miscellaneous
+T397,15-08-2024,C013,P013,4,1672,Omkar Iyer,Kolkata,Delhi,46.0,Female,15,August,2024,Thursday,3,Biscuits,300.96,0.0,Miscellaneous
+T398,02/28/2024,C032,P015,2,320,Kavya Nair,Ahmedabad,Delhi,19.0,Male,28,February,2024,Wednesday,1,Milk Carton,57.599999999999994,0.0,Household
+T399,2024-06-17,C035,P009,3,759,Meera Rao,Ahmedabad,Tamil Nadu,27.0,Male,17,June,2024,Monday,2,Green Tea,136.62,0.0,Miscellaneous
+T400,11/18/2024,C006,P010,8,1200,Aryan Singh,Hyderabad,Karnataka,28.0,Male,18,November,2024,Monday,4,Green Tea,216.0,120.0,Miscellaneous
+T401,07-09-2024,C021,P006,4,1448,Pooja Menon,Hyderabad,Tamil Nadu,29.0,Female,7,September,2024,Saturday,3,Yogurt Cup,260.64,0.0,Miscellaneous
+T402,10/07/2024,C049,P013,10,4180,Kabir Khanna,Chennai,Tamil Nadu,32.0,Male,7,October,2024,Monday,4,Washing Powder,752.4,418.0,Miscellaneous
+T403,2024-03-21,C050,P004,1,485,Meera Rao,Ahmedabad,Karnataka,30.0,Male,21,March,2024,Thursday,1,Biscuits,87.3,0.0,Miscellaneous
+T404,09/21/2024,C049,P010,1,150,Riya Saxena,Chennai,Tamil Nadu,32.0,Male,21,September,2024,Saturday,3,Cheese Block,27.0,0.0,Miscellaneous
+T405,2024-11-18,C014,P019,7,2051,Arjun Verma,Chennai,West Bengal,56.0,Male,18,November,2024,Monday,4,Shampoo Bottle,369.18,205.10000000000002,Miscellaneous
+T406,03-03-2024,C004,P014,7,3010,Kabir Khanna,Bangalore,,34.0,Female,3,March,2024,Sunday,1,Cereal Box,541.8,301.0,Miscellaneous
+T407,06/09/2024,C014,P006,2,724,Kavya Nair,Chennai,West Bengal,56.0,Male,9,June,2024,Sunday,2,Biscuits,130.32,0.0,Miscellaneous
+T408,11/28/2024,C009,P015,2,320,Arjun Verma,Mumbai,Gujarat,24.0,Female,28,November,2024,Thursday,4,Yogurt Cup,57.599999999999994,0.0,Household
+T409,11/23/2024,C042,P018,1,445,Aryan Singh,Hyderabad,,34.0,Male,23,November,2024,Saturday,4,Bath Soap,80.1,0.0,Miscellaneous
+T410,06/29/2024,C016,P001,5,1240,Siddharth Bansal,Bangalore,Maharashtra,54.0,Female,29,June,2024,Saturday,2,Toothpaste,223.2,0.0,Snacks
+T411,13-10-2024,C035,P010,6,900,Aarav Sharma,Ahmedabad,,27.0,Male,13,October,2024,Sunday,4,Cereal Box,162.0,90.0,Miscellaneous
+T412,2024-09-21,C011,P010,6,900,Kavya Nair,Delhi,West Bengal,52.0,Female,21,September,2024,Saturday,3,Butter Pack,162.0,90.0,Miscellaneous
+T413,2024-05-22,C046,P008,10,1310,Simran Kaur,Hyderabad,Delhi,29.0,Female,22,May,2024,Wednesday,2,Detergent Liquid,235.79999999999998,131.0,Miscellaneous
+T414,03/17/2024,C049,P007,7,2800,Ishita Mehta,Chennai,Tamil Nadu,32.0,Male,17,March,2024,Sunday,1,Face Wash,504.0,280.0,Miscellaneous
+T415,30-04-2024,C028,P011,7,581,Aryan Singh,Mumbai,Delhi,42.0,Male,30,April,2024,Tuesday,2,Washing Powder,104.58,58.1,Miscellaneous
+T416,2024-07-18,C010,P009,2,506,Kavya Nair,Hyderabad,Telangana,43.0,Female,18,July,2024,Thursday,3,Cereal Box,91.08,0.0,Miscellaneous
+T417,2024-01-14,C033,P017,4,1504,Aditi Kapoor,Hyderabad,West Bengal,31.0,Male,14,January,2024,Sunday,1,Bath Soap,270.71999999999997,0.0,Miscellaneous
+T418,2024-10-22,C033,P013,3,1254,Simran Kaur,Hyderabad,West Bengal,31.0,Male,22,October,2024,Tuesday,4,Hand Sanitizer,225.72,0.0,Miscellaneous
+T419,2024-02-22,C014,P006,2,724,Pooja Menon,Chennai,West Bengal,56.0,Male,22,February,2024,Thursday,1,Toothpaste,130.32,0.0,Miscellaneous
+T420,2024-02-23,C008,P001,4,992,Riya Saxena,Hyderabad,Karnataka,50.0,Male,23,February,2024,Friday,1,Toothpaste,178.56,0.0,Snacks
+T421,2024-12-03,C047,P019,8,2344,Aditi Kapoor,Mumbai,Tamil Nadu,60.0,Male,3,December,2024,Tuesday,4,Washing Powder,421.91999999999996,234.4,Miscellaneous
+T422,05-04-2024,C033,P004,6,2910,Omkar Iyer,Hyderabad,West Bengal,31.0,Male,5,April,2024,Friday,2,Cereal Box,523.8,291.0,Miscellaneous
+T423,10/02/2024,C050,P003,6,2460,Rohan Desai,Ahmedabad,Karnataka,30.0,Male,2,October,2024,Wednesday,4,Cereal Box,442.8,246.0,Beverages
+T424,2024-03-31,C023,P002,5,1345,Neha Joshi,Kolkata,Delhi,45.0,Female,31,March,2024,Sunday,1,Toothpaste,242.1,0.0,Miscellaneous
+T425,05-06-2024,C050,P006,5,1810,Ishita Mehta,Ahmedabad,Karnataka,30.0,Male,5,June,2024,Wednesday,2,Detergent Liquid,325.8,0.0,Miscellaneous
+T426,11-11-2024,C005,P006,9,3258,Anaya Gupta,Mumbai,West Bengal,45.0,Male,11,November,2024,Monday,4,Packaged Juice,586.4399999999999,325.8,Miscellaneous
+T427,07/03/2024,C024,P017,8,3008,Omkar Iyer,Hyderabad,West Bengal,37.0,Female,3,July,2024,Wednesday,3,Biscuits,541.4399999999999,300.8,Miscellaneous
+T428,12/06/2024,C039,P001,4,992,Dev Agarwal,Ahmedabad,Gujarat,20.0,Male,6,December,2024,Friday,4,Butter Pack,178.56,0.0,Snacks
+T429,2024-01-23,C032,P012,10,3340,Aditya Jain,Ahmedabad,Delhi,19.0,Male,23,January,2024,Tuesday,1,Detergent Liquid,601.1999999999999,334.0,Dairy
+T430,03/04/2024,C047,P013,10,4180,Arjun Verma,,Tamil Nadu,60.0,Male,4,March,2024,Monday,1,Energy Drink,752.4,418.0,Miscellaneous
+T431,07/31/2024,C050,P007,2,800,Riya Saxena,Ahmedabad,Karnataka,30.0,Male,31,July,2024,Wednesday,3,Toothpaste,144.0,0.0,Miscellaneous
+T432,21-01-2024,C018,P002,5,1345,Pooja Menon,Ahmedabad,Maharashtra,29.0,Male,21,January,2024,Sunday,1,Green Tea,242.1,0.0,Miscellaneous
+T433,08-09-2024,C030,P001,2,496,Dev Agarwal,,Delhi,,Male,8,September,2024,Sunday,3,Hand Sanitizer,89.28,0.0,Snacks
+T434,20-02-2024,C026,P001,10,2480,Aryan Singh,Hyderabad,Maharashtra,19.0,Female,20,February,2024,Tuesday,1,Washing Powder,446.4,248.0,Snacks
+T435,2024-06-06,C019,P017,9,3384,Vihaan Patel,Ahmedabad,Telangana,57.0,Male,6,June,2024,Thursday,2,Hand Sanitizer,609.12,338.40000000000003,Miscellaneous
+T436,2024-01-03,C036,P019,2,586,Vihaan Patel,Mumbai,West Bengal,38.0,Male,3,January,2024,Wednesday,1,Chocolate Bar,105.47999999999999,0.0,Miscellaneous
+T437,03/17/2024,C041,P011,3,249,Kabir Khanna,Hyderabad,Tamil Nadu,31.0,Female,17,March,2024,Sunday,1,Cereal Box,44.82,0.0,Miscellaneous
+T438,06/14/2024,C029,P002,2,538,Ishita Mehta,Bangalore,Delhi,39.0,Male,14,June,2024,Friday,2,Face Wash,96.84,0.0,Miscellaneous
+T439,2024-10-11,C007,P015,10,1600,Omkar Iyer,Mumbai,,57.0,Female,11,October,2024,Friday,4,Cheese Block,288.0,160.0,Household
+T440,2024-03-16,C040,P016,3,495,Dev Agarwal,Kolkata,Gujarat,34.0,Male,16,March,2024,Saturday,1,Rice Bag,89.1,0.0,Miscellaneous
+T441,08-03-2024,C049,P012,5,1670,Aarav Sharma,Chennai,Tamil Nadu,32.0,Male,8,March,2024,Friday,1,Toothpaste,300.59999999999997,0.0,Dairy
+T442,2024-12-25,C030,P008,9,1179,Neha Joshi,Chennai,Delhi,19.0,Male,25,December,2024,Wednesday,4,Coffee Pack,212.22,117.9,Miscellaneous
+T443,2024-09-27,C039,P009,4,1012,Kavya Nair,Ahmedabad,Gujarat,20.0,Male,27,September,2024,Friday,3,Packaged Juice,182.16,0.0,Miscellaneous
+T444,01/21/2024,C020,P018,4,1780,Aarav Sharma,Delhi,Gujarat,37.0,Male,21,January,2024,Sunday,1,Chocolate Bar,320.4,0.0,Miscellaneous
+T445,05/28/2024,C016,P002,7,1883,Meera Rao,Bangalore,Maharashtra,54.0,Female,28,May,2024,Tuesday,2,Shampoo Bottle,338.94,188.3,Miscellaneous
+T446,11-03-2024,C047,P004,5,2425,Simran Kaur,Mumbai,Tamil Nadu,,Male,11,March,2024,Monday,1,Washing Powder,436.5,0.0,Miscellaneous
+T447,2024-11-06,C019,P004,6,2910,Aarav Sharma,Ahmedabad,Telangana,57.0,Male,6,November,2024,Wednesday,4,Chocolate Bar,523.8,291.0,Miscellaneous
+T448,04/18/2024,C033,P003,4,1640,Aditi Kapoor,Hyderabad,West Bengal,31.0,Male,18,April,2024,Thursday,2,Detergent Liquid,295.2,0.0,Beverages
+T449,2024-02-15,C041,P006,9,3258,Ishita Mehta,Hyderabad,Tamil Nadu,31.0,Female,15,February,2024,Thursday,1,Butter Pack,586.4399999999999,325.8,Miscellaneous
+T450,2024-08-30,C032,P020,8,2568,Pooja Menon,Ahmedabad,Delhi,19.0,Male,30,August,2024,Friday,3,Packaged Juice,462.24,256.8,Miscellaneous
+T451,18-05-2024,C004,P004,2,970,Neha Joshi,Bangalore,Telangana,34.0,Female,18,May,2024,Saturday,2,Butter Pack,174.6,0.0,Miscellaneous
+T452,2024-08-15,C050,P012,6,2004,Nisha Roy,Ahmedabad,Karnataka,30.0,Male,15,August,2024,Thursday,3,Toothpaste,360.71999999999997,200.4,Dairy
+T453,25-11-2024,C007,P004,2,970,Vihaan Patel,Mumbai,West Bengal,57.0,Female,25,November,2024,Monday,4,Milk Carton,174.6,0.0,Miscellaneous
+T454,03/18/2024,C043,P014,1,430,Aarav Sharma,Delhi,Gujarat,32.0,Female,18,March,2024,Monday,1,Packaged Juice,77.39999999999999,0.0,Miscellaneous
+T455,08/19/2024,C022,P007,7,2800,Nisha Roy,Delhi,Telangana,34.0,Male,19,August,2024,Monday,3,Milk Carton,504.0,280.0,Miscellaneous
+T456,01/15/2024,C015,P018,2,890,Aditya Jain,Kolkata,West Bengal,24.0,Male,15,January,2024,Monday,1,Cooking Oil,160.2,0.0,Miscellaneous
+T457,01/07/2024,C023,P010,10,1500,Aarav Sharma,Kolkata,Delhi,45.0,Female,7,January,2024,Sunday,1,Packaged Juice,270.0,150.0,Miscellaneous
+T458,05-07-2024,C021,P009,4,1012,Dev Agarwal,Hyderabad,Tamil Nadu,29.0,Female,5,July,2024,Friday,3,Green Tea,182.16,0.0,Miscellaneous
+T459,13-08-2024,C013,P015,2,320,Omkar Iyer,Kolkata,Delhi,46.0,Female,13,August,2024,Tuesday,3,Milk Carton,57.599999999999994,0.0,Household
+T460,01/27/2024,C030,P006,6,2172,Vihaan Patel,,Delhi,19.0,Male,27,January,2024,Saturday,1,Packaged Juice,390.96,217.20000000000002,Miscellaneous
+T461,12/30/2024,C001,P015,8,1280,Dev Agarwal,Bangalore,West Bengal,52.0,Male,30,December,2024,Monday,4,Cooking Oil,230.39999999999998,128.0,Household
+T462,09/01/2024,C035,P003,1,410,Vihaan Patel,Ahmedabad,Tamil Nadu,27.0,Male,1,September,2024,Sunday,3,Toothpaste,73.8,0.0,Beverages
+T463,01-06-2024,C007,P009,8,2024,Riya Saxena,Mumbai,West Bengal,57.0,Female,1,June,2024,Saturday,2,Milk Carton,364.32,202.4,Miscellaneous
+T464,12/02/2024,C013,P016,5,825,Meera Rao,Kolkata,Delhi,46.0,Female,2,December,2024,Monday,4,Packaged Juice,148.5,0.0,Miscellaneous
+T465,12-09-2024,C019,P005,2,614,Dev Agarwal,Ahmedabad,,,Male,12,September,2024,Thursday,3,Cheese Block,110.52,0.0,Personal Care
+T466,2024-12-03,C004,P005,1,307,Kabir Khanna,Bangalore,Telangana,34.0,Female,3,December,2024,Tuesday,4,Energy Drink,55.26,0.0,Personal Care
+T467,02/24/2024,C026,P004,5,2425,Pooja Menon,Hyderabad,Maharashtra,19.0,Female,24,February,2024,Saturday,1,Shampoo Bottle,436.5,0.0,Miscellaneous
+T468,27-08-2024,C025,P001,7,1736,Aditya Jain,Bangalore,Delhi,38.0,Female,27,August,2024,Tuesday,3,Washing Powder,312.47999999999996,173.60000000000002,Snacks
+T469,08-01-2024,C048,P013,4,1672,Kavya Nair,Chennai,Gujarat,56.0,Female,8,January,2024,Monday,1,Cooking Oil,300.96,0.0,Miscellaneous
+T470,10-06-2024,C016,P020,1,321,Aarav Sharma,Bangalore,,54.0,Female,10,June,2024,Monday,2,Shampoo Bottle,57.78,0.0,Miscellaneous
+T471,2024-10-29,C028,P014,8,3440,Meera Rao,,Delhi,42.0,Male,29,October,2024,Tuesday,4,Face Wash,619.1999999999999,344.0,Miscellaneous
+T472,01/28/2024,C026,P005,4,1228,Simran Kaur,Hyderabad,Maharashtra,19.0,Female,28,January,2024,Sunday,1,Hand Sanitizer,221.04,0.0,Personal Care
+T473,05-01-2024,C017,P015,7,1120,Kabir Khanna,Chennai,Delhi,56.0,Male,5,January,2024,Friday,1,Face Wash,201.6,112.0,Household
+T474,10/27/2024,C013,P005,1,307,Pooja Menon,Kolkata,,46.0,Female,27,October,2024,Sunday,4,Rice Bag,55.26,0.0,Personal Care
+T475,22-08-2024,C031,P018,7,3115,Meera Rao,Kolkata,West Bengal,54.0,Male,22,August,2024,Thursday,3,Butter Pack,560.6999999999999,311.5,Miscellaneous
+T476,08/18/2024,C012,P009,8,2024,Ishita Mehta,Delhi,West Bengal,27.0,Female,18,August,2024,Sunday,3,Washing Powder,364.32,202.4,Miscellaneous
+T477,2024-06-26,C031,P016,6,990,Kabir Khanna,Kolkata,West Bengal,54.0,Male,26,June,2024,Wednesday,2,Hand Sanitizer,178.2,99.0,Miscellaneous
+T478,28-06-2024,C019,P010,1,150,Anaya Gupta,Ahmedabad,Telangana,57.0,Male,28,June,2024,Friday,2,Hand Sanitizer,27.0,0.0,Miscellaneous
+T479,27-05-2024,C005,P004,1,485,Anaya Gupta,Mumbai,West Bengal,45.0,Male,27,May,2024,Monday,2,Green Tea,87.3,0.0,Miscellaneous
+T480,2024-02-27,C029,P013,3,1254,Meera Rao,Bangalore,Delhi,,Male,27,February,2024,Tuesday,1,Yogurt Cup,225.72,0.0,Miscellaneous
+T481,05/25/2024,C047,P003,10,4100,Aditya Jain,Mumbai,Tamil Nadu,60.0,Male,25,May,2024,Saturday,2,Energy Drink,738.0,410.0,Beverages
+T482,19-05-2024,C010,P008,9,1179,Siddharth Bansal,Hyderabad,Telangana,43.0,Female,19,May,2024,Sunday,2,Coffee Pack,212.22,117.9,Miscellaneous
+T483,2024-02-17,C036,P014,4,1720,Aryan Singh,Mumbai,West Bengal,38.0,Male,17,February,2024,Saturday,1,Cheese Block,309.59999999999997,0.0,Miscellaneous
+T484,17-02-2024,C002,P008,9,1179,Vihaan Patel,Delhi,Telangana,48.0,Male,17,February,2024,Saturday,1,Milk Carton,212.22,117.9,Miscellaneous
+T485,23-03-2024,C050,P014,10,4300,Vihaan Patel,Ahmedabad,Karnataka,30.0,Male,23,March,2024,Saturday,1,Bath Soap,774.0,430.0,Miscellaneous
+T486,05-10-2024,C049,P007,4,1600,Vihaan Patel,Chennai,Tamil Nadu,32.0,Male,5,October,2024,Saturday,4,Energy Drink,288.0,0.0,Miscellaneous
+T487,01/17/2024,C004,P020,1,321,Meera Rao,Bangalore,Telangana,34.0,Female,17,January,2024,Wednesday,1,Rice Bag,57.78,0.0,Miscellaneous
+T488,2024-10-20,C030,P002,8,2152,Anaya Gupta,Chennai,Delhi,19.0,Male,20,October,2024,Sunday,4,Washing Powder,387.36,215.20000000000002,Miscellaneous
+T489,2024-12-25,C035,P006,10,3620,Omkar Iyer,Ahmedabad,Tamil Nadu,27.0,Male,25,December,2024,Wednesday,4,Washing Powder,651.6,362.0,Miscellaneous
+T490,2024-09-10,C019,P013,7,2926,Arjun Verma,Ahmedabad,Telangana,57.0,Male,10,September,2024,Tuesday,3,Shampoo Bottle,526.68,292.6,Miscellaneous
+T491,2024-02-22,C009,P017,5,1880,Kavya Nair,Mumbai,Gujarat,24.0,Female,22,February,2024,Thursday,1,Chocolate Bar,338.4,0.0,Miscellaneous
+T492,21-06-2024,C029,P011,6,498,Aditi Kapoor,Bangalore,Delhi,39.0,Male,21,June,2024,Friday,2,Bath Soap,89.64,49.800000000000004,Miscellaneous
+T493,06/25/2024,C024,P002,1,269,Simran Kaur,Hyderabad,West Bengal,37.0,Female,25,June,2024,Tuesday,2,Washing Powder,48.42,0.0,Miscellaneous
+T494,2024-09-09,C027,P013,3,1254,Aryan Singh,Ahmedabad,Maharashtra,25.0,Male,9,September,2024,Monday,3,Face Wash,225.72,0.0,Miscellaneous
+T495,08/24/2024,C045,P005,9,2763,Dev Agarwal,Ahmedabad,Delhi,33.0,Female,24,August,2024,Saturday,3,Washing Powder,497.34,276.3,Personal Care
+T496,2024-01-20,C006,P005,8,2456,Meera Rao,Hyderabad,Karnataka,28.0,Male,20,January,2024,Saturday,1,Energy Drink,442.08,245.60000000000002,Personal Care
+T497,2024-11-07,C014,P006,1,362,Anaya Gupta,Chennai,West Bengal,56.0,Male,7,November,2024,Thursday,4,Yogurt Cup,65.16,0.0,Miscellaneous
+T498,09-04-2024,C015,P008,7,917,Aditi Kapoor,Kolkata,West Bengal,,Male,9,April,2024,Tuesday,2,Rice Bag,165.06,91.7,Miscellaneous
+T499,28-02-2024,C028,P020,3,963,Aditi Kapoor,Mumbai,Delhi,42.0,Male,28,February,2024,Wednesday,1,Yogurt Cup,173.34,0.0,Miscellaneous
+T500,06-05-2024,C024,P020,7,2247,Ishita Mehta,Hyderabad,West Bengal,37.0,Female,6,May,2024,Monday,2,Coffee Pack,404.46,224.70000000000002,Miscellaneous
+T501,06/21/2024,C036,P002,1,269,Anaya Gupta,Mumbai,West Bengal,,Male,21,June,2024,Friday,2,Detergent Liquid,48.42,0.0,Miscellaneous
+T502,04-02-2024,C013,P015,1,160,Omkar Iyer,Kolkata,Delhi,46.0,Female,4,February,2024,Sunday,1,Yogurt Cup,28.799999999999997,0.0,Household
+T503,17-06-2024,C016,P003,8,3280,Anaya Gupta,Bangalore,Maharashtra,54.0,Female,17,June,2024,Monday,2,Washing Powder,590.4,328.0,Beverages
+T504,2024-09-21,C043,P006,5,1810,Anaya Gupta,Delhi,Gujarat,32.0,Female,21,September,2024,Saturday,3,Hand Sanitizer,325.8,0.0,Miscellaneous
+T505,2024-07-15,C011,P012,7,2338,Aditya Jain,Delhi,West Bengal,52.0,Female,15,July,2024,Monday,3,Cooking Oil,420.84,233.8,Dairy
+T506,10-03-2024,C010,P012,10,3340,Omkar Iyer,Hyderabad,Telangana,,Female,10,March,2024,Sunday,1,Chocolate Bar,601.1999999999999,334.0,Dairy
+T507,05-01-2024,C012,P016,4,660,Anaya Gupta,Delhi,West Bengal,27.0,Female,5,January,2024,Friday,1,Biscuits,118.8,0.0,Miscellaneous
+T508,01/27/2024,C032,P010,8,1200,Dev Agarwal,Ahmedabad,Delhi,19.0,Male,27,January,2024,Saturday,1,Hand Sanitizer,216.0,120.0,Miscellaneous
+T509,12/24/2024,C039,P014,8,3440,Kavya Nair,Ahmedabad,Gujarat,20.0,Male,24,December,2024,Tuesday,4,Detergent Liquid,619.1999999999999,344.0,Miscellaneous
+T510,2024-10-26,C009,P007,10,4000,Aditya Jain,Mumbai,Gujarat,24.0,Female,26,October,2024,Saturday,4,Coffee Pack,720.0,400.0,Miscellaneous
+T511,03/18/2024,C016,P017,2,752,Neha Joshi,Bangalore,Maharashtra,54.0,Female,18,March,2024,Monday,1,Energy Drink,135.35999999999999,0.0,Miscellaneous
+T512,29-04-2024,C039,P016,6,990,Kabir Khanna,Ahmedabad,,20.0,Male,29,April,2024,Monday,2,Shampoo Bottle,178.2,99.0,Miscellaneous
+T513,19-12-2024,C036,P013,8,3344,Arjun Verma,Mumbai,West Bengal,,Male,19,December,2024,Thursday,4,Butter Pack,601.92,334.40000000000003,Miscellaneous
+T514,2024-07-10,C014,P019,7,2051,Vihaan Patel,Chennai,West Bengal,56.0,Male,10,July,2024,Wednesday,3,Chocolate Bar,369.18,205.10000000000002,Miscellaneous
+T515,24-09-2024,C009,P003,10,4100,Neha Joshi,Mumbai,Gujarat,24.0,Female,24,September,2024,Tuesday,3,Bath Soap,738.0,410.0,Beverages
+T516,05-11-2024,C029,P016,4,660,Aryan Singh,Bangalore,Delhi,39.0,Male,5,November,2024,Tuesday,4,Shampoo Bottle,118.8,0.0,Miscellaneous
+T517,21-11-2024,C045,P004,1,485,Nisha Roy,Ahmedabad,Delhi,33.0,Female,21,November,2024,Thursday,4,Biscuits,87.3,0.0,Miscellaneous
+T518,05-09-2024,C034,P012,8,2672,Anaya Gupta,,Gujarat,28.0,Female,5,September,2024,Thursday,3,Coffee Pack,480.96,267.2,Dairy
+T519,04/15/2024,C005,P003,2,820,Vihaan Patel,Mumbai,West Bengal,45.0,Male,15,April,2024,Monday,2,Detergent Liquid,147.6,0.0,Beverages
+T520,04/30/2024,C043,P002,8,2152,Ishita Mehta,Delhi,Gujarat,,Female,30,April,2024,Tuesday,2,Yogurt Cup,387.36,215.20000000000002,Miscellaneous
+T521,07/27/2024,C036,P015,1,160,Dev Agarwal,Mumbai,West Bengal,38.0,Male,27,July,2024,Saturday,3,Detergent Liquid,28.799999999999997,0.0,Household
+T522,07/29/2024,C030,P012,7,2338,Neha Joshi,Chennai,Delhi,,Male,29,July,2024,Monday,3,Packaged Juice,420.84,233.8,Dairy
+T523,05/23/2024,C033,P007,7,2800,Pooja Menon,Hyderabad,West Bengal,31.0,Male,23,May,2024,Thursday,2,Yogurt Cup,504.0,280.0,Miscellaneous
+T524,2024-11-03,C004,P018,6,2670,Meera Rao,Bangalore,Telangana,34.0,Female,3,November,2024,Sunday,4,Rice Bag,480.59999999999997,267.0,Miscellaneous
+T525,07-04-2024,C039,P007,10,4000,Siddharth Bansal,Ahmedabad,Gujarat,20.0,Male,7,April,2024,Sunday,2,Washing Powder,720.0,400.0,Miscellaneous
+T526,2024-02-29,C018,P018,2,890,Siddharth Bansal,Ahmedabad,Maharashtra,29.0,Male,29,February,2024,Thursday,1,Cheese Block,160.2,0.0,Miscellaneous
+T527,28-10-2024,C050,P020,6,1926,Kabir Khanna,Ahmedabad,Karnataka,30.0,Male,28,October,2024,Monday,4,Chocolate Bar,346.68,192.60000000000002,Miscellaneous
+T528,04-09-2024,C048,P002,1,269,Rohan Desai,Chennai,Gujarat,56.0,Female,4,September,2024,Wednesday,3,Butter Pack,48.42,0.0,Miscellaneous
+T529,20-02-2024,C038,P007,7,2800,Nisha Roy,Hyderabad,Maharashtra,37.0,Female,20,February,2024,Tuesday,1,Face Wash,504.0,280.0,Miscellaneous
+T530,2024-06-18,C014,P017,7,2632,Rohan Desai,Chennai,West Bengal,56.0,Male,18,June,2024,Tuesday,2,Biscuits,473.76,263.2,Miscellaneous
+T531,31-10-2024,C028,P006,5,1810,Rohan Desai,Mumbai,Delhi,42.0,Male,31,October,2024,Thursday,4,Washing Powder,325.8,0.0,Miscellaneous
+T532,01-09-2024,C050,P004,2,970,Aditya Jain,Ahmedabad,Karnataka,30.0,Male,1,September,2024,Sunday,3,Yogurt Cup,174.6,0.0,Miscellaneous
+T533,03/26/2024,C018,P003,9,3690,Vihaan Patel,Ahmedabad,Maharashtra,29.0,Male,26,March,2024,Tuesday,1,Face Wash,664.1999999999999,369.0,Beverages
+T534,03/28/2024,C035,P008,5,655,Kavya Nair,Ahmedabad,Tamil Nadu,27.0,Male,28,March,2024,Thursday,1,Hand Sanitizer,117.89999999999999,0.0,Miscellaneous
+T535,25-03-2024,C030,P017,8,3008,Kabir Khanna,Chennai,Delhi,19.0,Male,25,March,2024,Monday,1,Energy Drink,541.4399999999999,300.8,Miscellaneous
+T536,07/29/2024,C028,P005,8,2456,Omkar Iyer,Mumbai,Delhi,42.0,Male,29,July,2024,Monday,3,Cheese Block,442.08,245.60000000000002,Personal Care
+T537,2024-07-22,C031,P018,5,2225,Dev Agarwal,Kolkata,West Bengal,54.0,Male,22,July,2024,Monday,3,Packaged Juice,400.5,0.0,Miscellaneous
+T538,21-10-2024,C026,P007,9,3600,Aarav Sharma,Hyderabad,Maharashtra,19.0,Female,21,October,2024,Monday,4,Chocolate Bar,648.0,360.0,Miscellaneous
+T539,2024-02-27,C006,P020,8,2568,Siddharth Bansal,Hyderabad,Karnataka,28.0,Male,27,February,2024,Tuesday,1,Cereal Box,462.24,256.8,Miscellaneous
+T540,04/14/2024,C027,P011,8,664,Arjun Verma,Ahmedabad,Maharashtra,25.0,Male,14,April,2024,Sunday,2,Butter Pack,119.52,66.4,Miscellaneous
+T541,07/11/2024,C037,P006,4,1448,Anaya Gupta,Delhi,Karnataka,54.0,Female,11,July,2024,Thursday,3,Butter Pack,260.64,0.0,Miscellaneous
+T542,2024-10-21,C003,P003,7,2870,Arjun Verma,Mumbai,Telangana,,Female,21,October,2024,Monday,4,Cooking Oil,516.6,287.0,Beverages
+T543,04-02-2024,C030,P002,10,2690,Kavya Nair,Chennai,Delhi,19.0,Male,4,February,2024,Sunday,1,Hand Sanitizer,484.2,269.0,Miscellaneous
+T544,09/20/2024,C024,P003,10,4100,Kabir Khanna,Hyderabad,West Bengal,,Female,20,September,2024,Friday,3,Detergent Liquid,738.0,410.0,Beverages
+T545,02/07/2024,C032,P002,3,807,Siddharth Bansal,Ahmedabad,Delhi,19.0,Male,7,February,2024,Wednesday,1,Biscuits,145.26,0.0,Miscellaneous
+T546,09/18/2024,C003,P003,4,1640,Nisha Roy,Mumbai,Telangana,47.0,Female,18,September,2024,Wednesday,3,Energy Drink,295.2,0.0,Beverages
+T547,2024-05-01,C005,P018,1,445,Siddharth Bansal,Mumbai,,45.0,Male,1,May,2024,Wednesday,2,Face Wash,80.1,0.0,Miscellaneous
+T548,2024-02-28,C021,P011,10,830,Aditya Jain,Hyderabad,Tamil Nadu,29.0,Female,28,February,2024,Wednesday,1,Butter Pack,149.4,83.0,Miscellaneous
+T549,02/03/2024,C012,P012,8,2672,Simran Kaur,Delhi,West Bengal,27.0,Female,3,February,2024,Saturday,1,Butter Pack,480.96,267.2,Dairy
+T550,10-09-2024,C013,P019,4,1172,Pooja Menon,,Delhi,,Female,10,September,2024,Tuesday,3,Cheese Block,210.95999999999998,0.0,Miscellaneous
+T551,2024-11-25,C001,P007,3,1200,Arjun Verma,Bangalore,West Bengal,52.0,Male,25,November,2024,Monday,4,Toothpaste,216.0,0.0,Miscellaneous
+T552,14-12-2024,C029,P011,2,166,Pooja Menon,Bangalore,,39.0,Male,14,December,2024,Saturday,4,Packaged Juice,29.88,0.0,Miscellaneous
+T553,2024-09-15,C048,P014,7,3010,Riya Saxena,Chennai,Gujarat,,Female,15,September,2024,Sunday,3,Butter Pack,541.8,301.0,Miscellaneous
+T554,2024-01-10,C007,P001,6,1488,Nisha Roy,Mumbai,West Bengal,57.0,Female,10,January,2024,Wednesday,1,Toothpaste,267.84,148.8,Snacks
+T555,09-05-2024,C046,P016,8,1320,Neha Joshi,Hyderabad,Delhi,29.0,Female,9,May,2024,Thursday,2,Chocolate Bar,237.6,132.0,Miscellaneous
+T556,16-05-2024,C040,P010,4,600,Aarav Sharma,Kolkata,Gujarat,34.0,Male,16,May,2024,Thursday,2,Detergent Liquid,108.0,0.0,Miscellaneous
+T557,11-09-2024,C026,P010,1,150,Aditi Kapoor,Hyderabad,Maharashtra,19.0,Female,11,September,2024,Wednesday,3,Shampoo Bottle,27.0,0.0,Miscellaneous
+T558,2024-09-09,C050,P010,7,1050,Rohan Desai,Ahmedabad,Karnataka,30.0,Male,9,September,2024,Monday,3,Cooking Oil,189.0,105.0,Miscellaneous
+T559,11-09-2024,C022,P011,10,830,Dev Agarwal,,Telangana,34.0,Male,11,September,2024,Wednesday,3,Packaged Juice,149.4,83.0,Miscellaneous
+T560,12-10-2024,C036,P020,4,1284,Vihaan Patel,Mumbai,West Bengal,38.0,Male,12,October,2024,Saturday,4,Hand Sanitizer,231.12,0.0,Miscellaneous
+T561,13-06-2024,C043,P016,5,825,Vihaan Patel,Delhi,Gujarat,32.0,Female,13,June,2024,Thursday,2,Face Wash,148.5,0.0,Miscellaneous
+T562,27-11-2024,C036,P018,1,445,Vihaan Patel,Mumbai,West Bengal,38.0,Male,27,November,2024,Wednesday,4,Cooking Oil,80.1,0.0,Miscellaneous
+T563,11-12-2024,C020,P009,10,2530,Vihaan Patel,Delhi,Gujarat,37.0,Male,11,December,2024,Wednesday,4,Milk Carton,455.4,253.0,Miscellaneous
+T564,04-12-2024,C032,P004,3,1455,Siddharth Bansal,Ahmedabad,Delhi,19.0,Male,4,December,2024,Wednesday,4,Energy Drink,261.9,0.0,Miscellaneous
+T565,02-12-2024,C037,P020,4,1284,Aryan Singh,Delhi,Karnataka,54.0,Female,2,December,2024,Monday,4,Coffee Pack,231.12,0.0,Miscellaneous
+T566,2024-12-09,C005,P004,6,2910,Aditi Kapoor,,West Bengal,45.0,Male,9,December,2024,Monday,4,Green Tea,523.8,291.0,Miscellaneous
+T567,14-09-2024,C019,P012,6,2004,Vihaan Patel,Ahmedabad,Telangana,,Male,14,September,2024,Saturday,3,Green Tea,360.71999999999997,200.4,Dairy
+T568,2024-07-13,C035,P019,10,2930,Aditi Kapoor,Ahmedabad,Tamil Nadu,27.0,Male,13,July,2024,Saturday,3,Milk Carton,527.4,293.0,Miscellaneous
+T569,11/27/2024,C041,P013,8,3344,Kabir Khanna,Hyderabad,Tamil Nadu,31.0,Female,27,November,2024,Wednesday,4,Yogurt Cup,601.92,334.40000000000003,Miscellaneous
+T570,12/26/2024,C010,P014,4,1720,Aditi Kapoor,Hyderabad,Telangana,43.0,Female,26,December,2024,Thursday,4,Biscuits,309.59999999999997,0.0,Miscellaneous
+T571,2024-02-28,C003,P017,5,1880,Aditya Jain,Mumbai,,47.0,Female,28,February,2024,Wednesday,1,Washing Powder,338.4,0.0,Miscellaneous
+T572,25-06-2024,C014,P006,3,1086,Aryan Singh,Chennai,West Bengal,56.0,Male,25,June,2024,Tuesday,2,Detergent Liquid,195.48,0.0,Miscellaneous
+T573,2024-03-04,C038,P001,10,2480,Rohan Desai,Hyderabad,Maharashtra,37.0,Female,4,March,2024,Monday,1,Green Tea,446.4,248.0,Snacks
+T574,03/13/2024,C028,P001,4,992,Arjun Verma,Mumbai,Delhi,42.0,Male,13,March,2024,Wednesday,1,Hand Sanitizer,178.56,0.0,Snacks
+T575,2024-11-30,C003,P018,2,890,Kabir Khanna,,,47.0,Female,30,November,2024,Saturday,4,Rice Bag,160.2,0.0,Miscellaneous
+T576,07/07/2024,C049,P007,6,2400,Aditi Kapoor,Chennai,Tamil Nadu,32.0,Male,7,July,2024,Sunday,3,Yogurt Cup,432.0,240.0,Miscellaneous
+T577,2024-01-24,C016,P008,4,524,Aditya Jain,Bangalore,Maharashtra,54.0,Female,24,January,2024,Wednesday,1,Milk Carton,94.32,0.0,Miscellaneous
+T578,2024-07-16,C018,P005,6,1842,Simran Kaur,Ahmedabad,Maharashtra,29.0,Male,16,July,2024,Tuesday,3,Biscuits,331.56,184.20000000000002,Personal Care
+T579,2024-06-13,C013,P006,6,2172,Anaya Gupta,Kolkata,Delhi,46.0,Female,13,June,2024,Thursday,2,Detergent Liquid,390.96,217.20000000000002,Miscellaneous
+T580,2024-06-08,C012,P007,3,1200,Simran Kaur,Delhi,West Bengal,27.0,Female,8,June,2024,Saturday,2,Detergent Liquid,216.0,0.0,Miscellaneous
+T581,2024-07-27,C011,P012,4,1336,Omkar Iyer,Delhi,,,Female,27,July,2024,Saturday,3,Face Wash,240.48,0.0,Dairy
+T582,08/26/2024,C023,P017,10,3760,Vihaan Patel,Kolkata,Delhi,45.0,Female,26,August,2024,Monday,3,Rice Bag,676.8,376.0,Miscellaneous
+T583,2024-03-07,C026,P019,8,2344,Riya Saxena,Hyderabad,Maharashtra,19.0,Female,7,March,2024,Thursday,1,Energy Drink,421.91999999999996,234.4,Miscellaneous
+T584,2024-11-29,C043,P020,5,1605,Dev Agarwal,Delhi,Gujarat,32.0,Female,29,November,2024,Friday,4,Toothpaste,288.9,0.0,Miscellaneous
+T585,2024-04-22,C002,P012,9,3006,Aditi Kapoor,Delhi,Telangana,48.0,Male,22,April,2024,Monday,2,Toothpaste,541.0799999999999,300.6,Dairy
+T586,26-06-2024,C025,P005,3,921,Pooja Menon,Bangalore,Delhi,38.0,Female,26,June,2024,Wednesday,2,Packaged Juice,165.78,0.0,Personal Care
+T587,07/28/2024,C042,P017,9,3384,Riya Saxena,Hyderabad,Delhi,34.0,Male,28,July,2024,Sunday,3,Face Wash,609.12,338.40000000000003,Miscellaneous
+T588,2024-04-21,C012,P010,10,1500,Kabir Khanna,Delhi,West Bengal,27.0,Female,21,April,2024,Sunday,2,Energy Drink,270.0,150.0,Miscellaneous
+T589,10/23/2024,C001,P002,6,1614,Rohan Desai,Bangalore,West Bengal,52.0,Male,23,October,2024,Wednesday,4,Bath Soap,290.52,161.4,Miscellaneous
+T590,2024-10-11,C034,P002,2,538,Riya Saxena,Kolkata,Gujarat,28.0,Female,11,October,2024,Friday,4,Butter Pack,96.84,0.0,Miscellaneous
+T591,28-01-2024,C030,P001,4,992,Riya Saxena,Chennai,Delhi,19.0,Male,28,January,2024,Sunday,1,Cheese Block,178.56,0.0,Snacks
+T592,11/05/2024,C007,P006,10,3620,Riya Saxena,,West Bengal,57.0,Female,5,November,2024,Tuesday,4,Energy Drink,651.6,362.0,Miscellaneous
+T593,07-06-2024,C038,P012,5,1670,Aryan Singh,Hyderabad,Maharashtra,37.0,Female,7,June,2024,Friday,2,Yogurt Cup,300.59999999999997,0.0,Dairy
+T594,17-11-2024,C016,P006,3,1086,Dev Agarwal,Bangalore,Maharashtra,54.0,Female,17,November,2024,Sunday,4,Coffee Pack,195.48,0.0,Miscellaneous
+T595,2024-12-16,C008,P010,4,600,Kabir Khanna,Hyderabad,Karnataka,50.0,Male,16,December,2024,Monday,4,Bath Soap,108.0,0.0,Miscellaneous
+T596,09/18/2024,C040,P013,4,1672,Kavya Nair,Kolkata,Gujarat,34.0,Male,18,September,2024,Wednesday,3,Milk Carton,300.96,0.0,Miscellaneous
+T597,05/23/2024,C042,P016,1,165,Kabir Khanna,Hyderabad,Delhi,34.0,Male,23,May,2024,Thursday,2,Hand Sanitizer,29.7,0.0,Miscellaneous
+T598,01/02/2024,C050,P008,10,1310,Arjun Verma,Ahmedabad,,30.0,Male,2,January,2024,Tuesday,1,Yogurt Cup,235.79999999999998,131.0,Miscellaneous
+T599,02/12/2024,C046,P002,8,2152,Rohan Desai,Hyderabad,,29.0,Female,12,February,2024,Monday,1,Chocolate Bar,387.36,215.20000000000002,Miscellaneous
+T600,2024-10-31,C021,P002,7,1883,Kavya Nair,Hyderabad,Tamil Nadu,29.0,Female,31,October,2024,Thursday,4,Toothpaste,338.94,188.3,Miscellaneous
+T111,2024-08-06,C028,P003,3,1230,Kabir Khanna,Mumbai,Delhi,42.0,Male,6,August,2024,Tuesday,3,Face Wash,221.4,0.0,Beverages
+T420,23-02-2024,C008,P001,4,992,Riya Saxena,Hyderabad,Karnataka,50.0,Male,23,February,2024,Friday,1,Toothpaste,178.56,0.0,Snacks
+T566,2024-12-09,C005,P004,6,2910,Aditi Kapoor,,West Bengal,45.0,Male,9,December,2024,Monday,4,Green Tea,523.8,291.0,Miscellaneous
+T078,10/17/2024,C025,P012,3,1002,Nisha Roy,Bangalore,Delhi,38.0,Female,17,October,2024,Thursday,4,Butter Pack,180.35999999999999,0.0,Dairy
+T182,2024-04-24,C034,P005,9,2763,Vihaan Patel,Kolkata,Gujarat,28.0,Female,24,April,2024,Wednesday,2,Cereal Box,497.34,276.3,Personal Care
+T285,15-04-2024,C025,P020,6,1926,Omkar Iyer,,,38.0,Female,15,April,2024,Monday,2,Biscuits,346.68,192.60000000000002,Miscellaneous
+T011,03/10/2024,C036,P014,300,258000,Anaya Gupta,Mumbai,West Bengal,38.0,Male,10,March,2024,Sunday,1,Yogurt Cup,464.4,258.0,Miscellaneous
+T470,06/10/2024,C016,P020,1,321,Aarav Sharma,Bangalore,,54.0,Female,10,June,2024,Monday,2,Shampoo Bottle,57.78,0.0,Miscellaneous
+T079,23-06-2024,C040,P007,6,2400,Vihaan Patel,Kolkata,Gujarat,34.0,Male,23,June,2024,Sunday,2,Energy Drink,432.0,240.0,Miscellaneous
+T350,23-09-2024,C002,P015,2,320,Aditi Kapoor,Delhi,Telangana,48.0,Male,23,September,2024,Monday,3,Biscuits,57.599999999999994,0.0,Household
